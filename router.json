@@ -1,0 +1,42 @@
+[
+    {
+        "id": "94632383-563623",
+        "score": "2.37",
+        "document": {
+            "author": "Gary Rogowski",
+            "title": "Router Joinery"
+        }
+    },
+    {
+        "id": "94632383-452236",
+        "score": "1.58",
+        "document": {
+            "author": "Patrick Spielman",
+            "title": "Router Basics (Basics Series)"
+        }
+    },
+    {
+        "id": "94632383-392595",
+        "score": "1.18",
+        "document": {
+            "author": "Patrick Spielman",
+            "title": "The New Router Handbook"
+        }
+    },
+    {
+        "id": "94632383-387605",
+        "score": "0.79",
+        "document": {
+            "author": "Scott M. Ballew",
+            "title": "Managing IP Networks with Cisco Routers"
+        }
+    },
+    {
+        "id": "94632383-429067",
+        "score": "0.59",
+        "document": {
+            "author": "Dick Burrows",
+            "title": "Router Projects and Techniques (Best of Fine Woodworking)"
+        }
+    }
+]

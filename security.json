@@ -1,0 +1,948 @@
+[
+    {
+        "id": "94203570-583747",
+        "score": "1.68",
+        "document": {
+            "author": "Peter H. Gregory",
+            "title": "Solaris Security"
+        }
+    },
+    {
+        "id": "94203570-78189",
+        "score": "1.12",
+        "document": {
+            "author": "Dean Koontz",
+            "title": "Security. Unheimlicher Roman."
+        }
+    },
+    {
+        "id": "94203570-228703",
+        "score": "1.12",
+        "document": {
+            "author": "David Icove",
+            "title": "Computer Crime (Computer Security)"
+        }
+    },
+    {
+        "id": "94203570-442850",
+        "score": "1.12",
+        "document": {
+            "author": "Debby Russell",
+            "title": "Computer Security Basics"
+        }
+    },
+    {
+        "id": "94203570-193966",
+        "score": "0.84",
+        "document": {
+            "author": "Peter T. Davis",
+            "title": "Computer Security for Dummies"
+        }
+    },
+    {
+        "id": "94203570-244293",
+        "score": "0.84",
+        "document": {
+            "author": "Terry Carney",
+            "title": "Social Security in Australia"
+        }
+    },
+    {
+        "id": "94203570-259408",
+        "score": "0.84",
+        "document": {
+            "author": "Thomas Sheldon",
+            "title": "Windows NT Security Handbook"
+        }
+    },
+    {
+        "id": "94203570-375786",
+        "score": "0.84",
+        "document": {
+            "author": "Simson Garfinkel",
+            "title": "Practical UNIX Security (Computer security)"
+        }
+    },
+    {
+        "id": "94203570-406221",
+        "score": "0.84",
+        "document": {
+            "author": "Derek Atkins",
+            "title": "Internet Security: Professional Reference"
+        }
+    },
+    {
+        "id": "94203570-523399",
+        "score": "0.84",
+        "document": {
+            "author": "Scott Oaks",
+            "title": "Java Security (2nd Edition)"
+        }
+    },
+    {
+        "id": "94203570-41298",
+        "score": "0.67",
+        "document": {
+            "author": "Karanjit, Ph.D. Siyan",
+            "title": "Internet Firewalls and Network Security"
+        }
+    },
+    {
+        "id": "94203570-58618",
+        "score": "0.67",
+        "document": {
+            "author": "Larry Hughes",
+            "title": "Actually Useful Internet Security Techniques"
+        }
+    },
+    {
+        "id": "94203570-136493",
+        "score": "0.67",
+        "document": {
+            "author": "Suze Orman",
+            "title": "Ask Suze About Social Security"
+        }
+    },
+    {
+        "id": "94203570-256157",
+        "score": "0.67",
+        "document": {
+            "author": "Alan B. Oppenheimer",
+            "title": "Internet Security for Your Macintosh"
+        }
+    },
+    {
+        "id": "94203570-293556",
+        "score": "0.67",
+        "document": {
+            "author": "Matt Bishop",
+            "title": "Computer Security: Art and Science"
+        }
+    },
+    {
+        "id": "94203570-329261",
+        "score": "0.67",
+        "document": {
+            "author": "Rose Connors",
+            "title": "Maximum Security : A Crime Novel"
+        }
+    },
+    {
+        "id": "94203570-367737",
+        "score": "0.67",
+        "document": {
+            "author": "Frank J.  Fabozzi",
+            "title": "Securities Lending and Repurchase Agreements"
+        }
+    },
+    {
+        "id": "94203570-452123",
+        "score": "0.67",
+        "document": {
+            "author": "Richard Harrison",
+            "title": "ASP/MTS/ADSI Web Security"
+        }
+    },
+    {
+        "id": "94203570-461934",
+        "score": "0.67",
+        "document": {
+            "author": "J. Matthew Pinson",
+            "title": "Four Views on Eternal Security"
+        }
+    },
+    {
+        "id": "94203570-467810",
+        "score": "0.67",
+        "document": {
+            "author": "Peter Norton",
+            "title": "Peter Norton's Network Security Fundamentals"
+        }
+    },
+    {
+        "id": "94203570-556706",
+        "score": "0.67",
+        "document": {
+            "author": "Charles P. Pfleeger",
+            "title": "Security in Computing, Second Edition"
+        }
+    },
+    {
+        "id": "94203570-99447",
+        "score": "0.56",
+        "document": {
+            "author": "Donald L. Pipkin",
+            "title": "Information Security: Protecting the Global Enterprise"
+        }
+    },
+    {
+        "id": "94203570-386300",
+        "score": "0.56",
+        "document": {
+            "author": "Simson Garfinkel",
+            "title": "Web Security &amp; Commerce (O'Reilly Nutshell)"
+        }
+    },
+    {
+        "id": "94203570-507760",
+        "score": "0.56",
+        "document": {
+            "author": "Daniel J. Barrett",
+            "title": "SSH, The Secure Shell: The Definitive Guide"
+        }
+    },
+    {
+        "id": "94203570-518037",
+        "score": "0.56",
+        "document": {
+            "author": "Anne H. Carasik",
+            "title": "Unix Secure Shell (Mcgraw-Hill Tools Series)"
+        }
+    },
+    {
+        "id": "94203570-538378",
+        "score": "0.56",
+        "document": {
+            "author": "Tracy Montoya",
+            "title": "Maximum Security (Harlequin Intrigue, No. 750)"
+        }
+    },
+    {
+        "id": "94203570-88919",
+        "score": "0.48",
+        "document": {
+            "author": "Mary Elizabeth Schlayer",
+            "title": "How to Be a Financially Secure Woman"
+        }
+    },
+    {
+        "id": "94203570-171318",
+        "score": "0.48",
+        "document": {
+            "author": "Stuart McClure",
+            "title": "Hacking Exposed: Network Security Secrets &amp; Solutions (Hacking Exposed)"
+        }
+    },
+    {
+        "id": "94203570-289398",
+        "score": "0.48",
+        "document": {
+            "author": "Douglas Roche",
+            "title": "Building Global Security: Agenda for the 1990's"
+        }
+    },
+    {
+        "id": "94203570-313699",
+        "score": "0.48",
+        "document": {
+            "author": "Simson Garfinkel",
+            "title": "Practical Unix and Internet Security, 2nd Edition"
+        }
+    },
+    {
+        "id": "94203570-396365",
+        "score": "0.48",
+        "document": {
+            "author": "C. G. Jacobsen",
+            "title": "World Security: The New Challenge (Dundurn Series)"
+        }
+    },
+    {
+        "id": "94203570-430478",
+        "score": "0.48",
+        "document": {
+            "author": "Michael Klare",
+            "title": "World Security: Challenges for a New Century"
+        }
+    },
+    {
+        "id": "94203570-478521",
+        "score": "0.48",
+        "document": {
+            "author": "John Bowlby",
+            "title": "Secure Base: Clinical Applications of Attachment Theory"
+        }
+    },
+    {
+        "id": "94203570-501140",
+        "score": "0.48",
+        "document": {
+            "author": "M. E. W. Cooley M. Schlayer",
+            "title": "How To Be A Financially Secure Woman"
+        }
+    },
+    {
+        "id": "94203570-552843",
+        "score": "0.48",
+        "document": {
+            "author": "Barry Dickman",
+            "title": "How to Plan for a Secure Retirement"
+        }
+    },
+    {
+        "id": "94203570-5226",
+        "score": "0.42",
+        "document": {
+            "author": "[Michael Collins]",
+            "title": "Network Security Through Data Analysis: From Data to Action"
+        }
+    },
+    {
+        "id": "94203570-208031",
+        "score": "0.42",
+        "document": {
+            "author": "Kevin D.  Mitnick",
+            "title": "The Art of Deception: Controlling the Human Element of Security"
+        }
+    },
+    {
+        "id": "94203570-242836",
+        "score": "0.42",
+        "document": {
+            "author": "Charlie Kaufman",
+            "title": "Network Security: Private Communication in a Public World"
+        }
+    },
+    {
+        "id": "94203570-266741",
+        "score": "0.42",
+        "document": {
+            "author": "Paul Clitheroe",
+            "title": "The Road to Wealth: Securing Your Financial Future"
+        }
+    },
+    {
+        "id": "94203570-331683",
+        "score": "0.42",
+        "document": {
+            "author": "Warwick Ford",
+            "title": "Computer Communications Security: Principles, Standard Protocols and Techniques"
+        }
+    },
+    {
+        "id": "94203570-385982",
+        "score": "0.42",
+        "document": {
+            "author": "Peter Loshin",
+            "title": "Big Book of IPsec RFCs: Internet Security Architecture"
+        }
+    },
+    {
+        "id": "94203570-406224",
+        "score": "0.42",
+        "document": {
+            "author": "Lars Klander",
+            "title": "Hacker Proof : The Ultimate Guide to Network Security"
+        }
+    },
+    {
+        "id": "94203570-452315",
+        "score": "0.42",
+        "document": {
+            "author": "Anthony Lake",
+            "title": "6 Nightmares : The Real Threats to American Security..."
+        }
+    },
+    {
+        "id": "94203570-456132",
+        "score": "0.42",
+        "document": {
+            "author": "Ashton B. Carter",
+            "title": "Preventive Defense: A New Security Strategy for America"
+        }
+    },
+    {
+        "id": "94203570-515738",
+        "score": "0.42",
+        "document": {
+            "author": "Kevin D.  Mitnick",
+            "title": "The Art of Deception : Controlling the Human Element of Security"
+        }
+    },
+    {
+        "id": "94203570-527617",
+        "score": "0.42",
+        "document": {
+            "author": "Charles Stanley",
+            "title": "In Touch Study Series,the Understanding Eternal Security"
+        }
+    },
+    {
+        "id": "94203570-577194",
+        "score": "0.42",
+        "document": {
+            "author": "Faustin F. Jehle",
+            "title": "Complete and Easy Guide to Social Security and Medicare"
+        }
+    },
+    {
+        "id": "94203570-586130",
+        "score": "0.42",
+        "document": {
+            "author": "White House Domestic Policy Council",
+            "title": "President's Health Security Plan: Health Care That's Always There"
+        }
+    },
+    {
+        "id": "94203570-591190",
+        "score": "0.42",
+        "document": {
+            "author": "Dixie Browning",
+            "title": "Security Man (Men: Made In America) (Men Made in America, No 33)"
+        }
+    },
+    {
+        "id": "94203570-7557",
+        "score": "0.37",
+        "document": {
+            "author": "[Mohamed Abdel-Basset,Nour Moustafa et al.]",
+            "title": "Deep Learning Approaches for Security Threats in IoT Environments"
+        }
+    },
+    {
+        "id": "94203570-8626",
+        "score": "0.37",
+        "document": {
+            "author": "[Clarence Chio,David Freeman]",
+            "title": "Machine Learning and Security: Protecting Systems with Data and Algorithms"
+        }
+    },
+    {
+        "id": "94203570-130215",
+        "score": "0.37",
+        "document": {
+            "author": "Andrew Matthews",
+            "title": "Being Happy: A Handbook to Greater Confidence and Security"
+        }
+    },
+    {
+        "id": "94203570-198521",
+        "score": "0.37",
+        "document": {
+            "author": "Microsoft Corporation",
+            "title": "MCSE Training Kit: Designing Microsoft Windows 2000 Network Security"
+        }
+    },
+    {
+        "id": "94203570-222828",
+        "score": "0.37",
+        "document": {
+            "author": "JAMES BAMFORD",
+            "title": "Body of Secrets : Anatomy of the Ultra-Secret National Security Agency"
+        }
+    },
+    {
+        "id": "94203570-313968",
+        "score": "0.37",
+        "document": {
+            "author": "Bruce  Schneier",
+            "title": "Secrets and Lies : Digital Security in a Networked World"
+        }
+    },
+    {
+        "id": "94203570-337028",
+        "score": "0.37",
+        "document": {
+            "author": "Stuart  McClure",
+            "title": "Hacking Exposed: Network Security Secrets &amp; Solutions, Fourth Edition (Hacking Exposed)"
+        }
+    },
+    {
+        "id": "94203570-364397",
+        "score": "0.37",
+        "document": {
+            "author": "Ferenc Mate",
+            "title": "A Reasonable Life: Toward a Simpler, Secure, More Humane Existence"
+        }
+    },
+    {
+        "id": "94203570-385969",
+        "score": "0.37",
+        "document": {
+            "author": "Stuart McClure",
+            "title": "Hacking Exposed: Network Security Secrets &amp; Solutions, Third Edition (Hacking Exposed)"
+        }
+    },
+    {
+        "id": "94203570-521029",
+        "score": "0.37",
+        "document": {
+            "author": "Stuart Zimmerman",
+            "title": "Inner Security and Infinite Wealth: Merging Self Worth and Net Worth"
+        }
+    },
+    {
+        "id": "94203570-543950",
+        "score": "0.37",
+        "document": {
+            "author": "Joel Mowbray",
+            "title": "Dangerous Diplomacy: How the State Department Threatens America's Security"
+        }
+    },
+    {
+        "id": "94203570-571144",
+        "score": "0.37",
+        "document": {
+            "author": "Josh McDowell",
+            "title": "Unlocking the Secrets of Being Loved, Accepted &amp; Secure"
+        }
+    },
+    {
+        "id": "94203570-203261",
+        "score": "0.34",
+        "document": {
+            "author": "Elizabeth M. Hoekstra",
+            "title": "Be Still: Finding the Quiet and Security of God's Presence"
+        }
+    },
+    {
+        "id": "94203570-287361",
+        "score": "0.34",
+        "document": {
+            "author": "Jerry S Rosenbloom",
+            "title": "Employee benefit planning (The Prentice-Hall series in security and insurance)"
+        }
+    },
+    {
+        "id": "94203570-360883",
+        "score": "0.34",
+        "document": {
+            "author": "David A. Curry",
+            "title": "UNIX(R) System Security: A Guide for Users and System Administrators"
+        }
+    },
+    {
+        "id": "94203570-361687",
+        "score": "0.34",
+        "document": {
+            "author": "Steven J. Allen",
+            "title": "Violation of Trust : Whatever Happened to the Social Security Trust Funds"
+        }
+    },
+    {
+        "id": "94203570-364205",
+        "score": "0.34",
+        "document": {
+            "author": "Robert A. Liston",
+            "title": "The Pueblo Surrender: A Covert Action by the National Security Agency"
+        }
+    },
+    {
+        "id": "94203570-370126",
+        "score": "0.34",
+        "document": {
+            "author": "Jeff Crume",
+            "title": "Inside Internet Security: What Hackers Don't Want You To Know"
+        }
+    },
+    {
+        "id": "94203570-402636",
+        "score": "0.34",
+        "document": {
+            "author": "Brad Shimmin",
+            "title": "Effective E-Mail: Clearly Explained : File Transfer, Security, and Interoperability (Clearly Explained Series)"
+        }
+    },
+    {
+        "id": "94203570-423604",
+        "score": "0.34",
+        "document": {
+            "author": "John Viega",
+            "title": "Building Secure Software: How to Avoid Security Problems the Right Way"
+        }
+    },
+    {
+        "id": "94203570-442701",
+        "score": "0.34",
+        "document": {
+            "author": "Marlene L. Theriault",
+            "title": "Oracle Security Handbook : Implement a Sound Security Plan in Your Oracle Environment"
+        }
+    },
+    {
+        "id": "94203570-466013",
+        "score": "0.34",
+        "document": {
+            "author": "Andrew Nathan",
+            "title": "Great Wall and the Empty Fortress: China's Search for Security"
+        }
+    },
+    {
+        "id": "94203570-578262",
+        "score": "0.34",
+        "document": {
+            "author": "Earle Beattie",
+            "title": "Canada's Billion Dollar Pension Scandal: How Secure Is Your Future?"
+        }
+    },
+    {
+        "id": "94203570-293769",
+        "score": "0.31",
+        "document": {
+            "author": "Volker C. Franke",
+            "title": "Security in a Changing World : Case Studies in U.S. National Security Management"
+        }
+    },
+    {
+        "id": "94203570-300491",
+        "score": "0.31",
+        "document": {
+            "author": "Dawn Callan",
+            "title": "Awakening the Warrior Within: Secrets of Personal Safety and Inner Security"
+        }
+    },
+    {
+        "id": "94203570-340880",
+        "score": "0.31",
+        "document": {
+            "author": "Robert Jervis",
+            "title": "The Illogic of American Nuclear Strategy (Cornell Studies in Security Affairs)"
+        }
+    },
+    {
+        "id": "94203570-360882",
+        "score": "0.31",
+        "document": {
+            "author": "Rik Farrow",
+            "title": "Unix System Security: How to Protect Your Data and Prevent Intruders"
+        }
+    },
+    {
+        "id": "94203570-519792",
+        "score": "0.31",
+        "document": {
+            "author": "Harold Hazelip",
+            "title": "Anchors for the Asking: Rediscovering a Secure Faith in a Shifting World"
+        }
+    },
+    {
+        "id": "94203570-526060",
+        "score": "0.31",
+        "document": {
+            "author": "James G. Jumes",
+            "title": "Microsoft Windows Nt 4.0 Security, Audit, and Control (Microsoft Technical Reference)"
+        }
+    },
+    {
+        "id": "94203570-376439",
+        "score": "0.28",
+        "document": {
+            "author": "David Cole",
+            "title": "Terrorism &amp; The Constitution, Sacrificing Civil Liberties in the Name of National Security"
+        }
+    },
+    {
+        "id": "94203570-508359",
+        "score": "0.28",
+        "document": {
+            "author": "Guy Hart-Davis",
+            "title": "The XP Files:  Windows' Hidden Tools for Secure Sharing, Communication, and Collaboration"
+        }
+    },
+    {
+        "id": "94203570-527868",
+        "score": "0.28",
+        "document": {
+            "author": "Brett Machtig",
+            "title": "Wealth in a Decade: A Fresh Approach to Financial Freedom, Security and Control"
+        }
+    },
+    {
+        "id": "94203570-534839",
+        "score": "0.28",
+        "document": {
+            "author": "David M. Darst",
+            "title": "The Complete Bond Book: A Guide to All Types of Fixed-Income Securities"
+        }
+    },
+    {
+        "id": "94203570-573396",
+        "score": "0.28",
+        "document": {
+            "author": "Charles Jennings",
+            "title": "The Hundredth Window: Protecting Your Privacy and Security in the Age of the Internet"
+        }
+    },
+    {
+        "id": "94203570-9858",
+        "score": "0.26",
+        "document": {
+            "author": [
+                "TJ OConnor"
+            ],
+            "title": "Violent Python: A Cookbook for Hackers Forensic Analysts Penetration Testers and Security Engineers"
+        }
+    },
+    {
+        "id": "94203570-138565",
+        "score": "0.26",
+        "document": {
+            "author": "Joseph Peter Simini",
+            "title": "How to Become Financially Independent: Your Road to Financial Security in an Unstable Economic Environment"
+        }
+    },
+    {
+        "id": "94203570-508432",
+        "score": "0.26",
+        "document": {
+            "author": "Price Waterhouse Llp",
+            "title": "Secure Your Future: Your Personal Companion for Understanding Lifestyle &amp; Financial Aspects of Retirement"
+        }
+    },
+    {
+        "id": "94203570-8451",
+        "score": "0.24",
+        "document": {
+            "author": "[Joshua Arvin Lat]",
+            "title": "Machine Learning Engineering on AWS: Building Scaling and Securing Machine Learning Systems and MLOps Pipelines in Production"
+        }
+    },
+    {
+        "id": "94203570-153093",
+        "score": "0.24",
+        "document": {
+            "author": "Robert  Goodman",
+            "title": "Independently Wealthy: How to Build Financial Security in the New Economic Era, 2nd Edition"
+        }
+    },
+    {
+        "id": "94203570-193621",
+        "score": "0.24",
+        "document": {
+            "author": "Edward Timperlake",
+            "title": "Year of the Rat: How Bill Clinton Compromised U.S. Security for Chinese Cash"
+        }
+    },
+    {
+        "id": "94203570-203493",
+        "score": "0.24",
+        "document": {
+            "author": "David Bach",
+            "title": "Smart Women Finish Rich: 7 Steps to Achieving Financial Security and Funding Your Dreams"
+        }
+    },
+    {
+        "id": "94203570-285379",
+        "score": "0.24",
+        "document": {
+            "author": "David Bach",
+            "title": "Smart Women Finish Rich: 7 Steps to Achieving Financial Security and Funding Your Dreams"
+        }
+    },
+    {
+        "id": "94203570-311728",
+        "score": "0.24",
+        "document": {
+            "author": "Robert Patterson",
+            "title": "Dereliction of Duty: The Eyewitness Account of How Bill Clinton Endangered America's Long-Term National Security"
+        }
+    },
+    {
+        "id": "94203570-378105",
+        "score": "0.24",
+        "document": {
+            "author": "Wade Dokken",
+            "title": "New Century, New Deal: How To Turn Your Wages Into Wealth Through Social Security Choice"
+        }
+    },
+    {
+        "id": "94203570-447499",
+        "score": "0.24",
+        "document": {
+            "author": "A. Haeworth Robertson",
+            "title": "The Big Lie: What Every Baby Boomer Should Know About Social Security and Medicare"
+        }
+    },
+    {
+        "id": "94203570-491684",
+        "score": "0.24",
+        "document": {
+            "author": "Howard Jones",
+            "title": "Quest For Security, A History of U.S. Foreign Relations, Vol. II, From 1897"
+        }
+    },
+    {
+        "id": "94203570-491685",
+        "score": "0.24",
+        "document": {
+            "author": "Howard  Jones",
+            "title": "Quest For Security, A History of U.S. Foreign Relations, Vol. I, To 1913"
+        }
+    },
+    {
+        "id": "94203570-537173",
+        "score": "0.24",
+        "document": {
+            "author": "Jim  Harris",
+            "title": "The Learning Paradox: Gaining Success and Security in a World of Change, 2nd Edition"
+        }
+    },
+    {
+        "id": "94203570-443487",
+        "score": "0.22",
+        "document": {
+            "author": "Johathan D. Pond",
+            "title": "The New Century Family Money Book/Your Comprehensive Guide to a Lifetime of Financial Security"
+        }
+    },
+    {
+        "id": "94203570-519231",
+        "score": "0.22",
+        "document": {
+            "author": "Elaine Scarry",
+            "title": "Who Defended the Country: A New Democracy Forum on Citizenship, National Security, and 9/11 (New Democracy Forum)"
+        }
+    },
+    {
+        "id": "94203570-595611",
+        "score": "0.22",
+        "document": {
+            "author": "Barry Buzan",
+            "title": "People, States, and Fear: An Agenda for International Security Studies in the Post-Cold War Era"
+        }
+    },
+    {
+        "id": "94203570-9978",
+        "score": "0.21",
+        "document": {
+            "author": "[Rafal Leszko]",
+            "title": "Continuous Delivery with Docker and Jenkins: Create secure applications building complete CI/CD pipelines 2nd Edition"
+        }
+    },
+    {
+        "id": "94203570-10052",
+        "score": "0.21",
+        "document": {
+            "author": "[Denis Rothman]",
+            "title": "Hands-On Explainable AI (XAI) with Python: Interpret visualize explain and integrate reliable AI for fair secure and trustworthy AI apps"
+        }
+    },
+    {
+        "id": "94203570-422018",
+        "score": "0.21",
+        "document": {
+            "author": "Lee E. Miller",
+            "title": "Get More Money on Your Next Job: 25 Proven Strategies for Getting More Money, Better Benefits, and Greater Job Security"
+        }
+    },
+    {
+        "id": "94203570-486650",
+        "score": "0.21",
+        "document": {
+            "author": "DAVID BACH",
+            "title": "Smart Women Finish Rich: 9 Steps to Achieving Financial Security and Funding Your Dreams (Revised Edition)"
+        }
+    },
+    {
+        "id": "94203570-523526",
+        "score": "0.21",
+        "document": {
+            "author": "White House Domestic Policy Council",
+            "title": "The President's Health Security Plan: The Complete Draft and Final Reports of the White House Domestic Policy Council"
+        }
+    },
+    {
+        "id": "94203570-540555",
+        "score": "0.21",
+        "document": {
+            "author": "J. L. Matthews",
+            "title": "Social Security, Medicare &amp; Government Pensions: By Joseph L. Matthews With Dorothy Matthews Berman (Social Security, Medicare and Pensions, 8th ed)"
+        }
+    },
+    {
+        "id": "94203570-543716",
+        "score": "0.21",
+        "document": {
+            "author": "Bill Landreth",
+            "title": "Out of the Inner Circle: The True Story of a Computer Intruder Capable of Cracking the Nation's Most Secure Computer Systems"
+        }
+    },
+    {
+        "id": "94203570-193686",
+        "score": "0.20",
+        "document": {
+            "author": "Linda Pinson",
+            "title": "Anatomy of a Business Plan: A Step-By-Step Guide to Starting Smart, Building the Business, and Securing Your Company's Future (Anatomy of a Business Plan)"
+        }
+    },
+    {
+        "id": "94203570-292357",
+        "score": "0.20",
+        "document": {
+            "author": "Thomas Kerr",
+            "title": "Civil Defense in the U.S.: Bandaid for a Holocaust (Westview Special Studies in National Security and Defense Policy)"
+        }
+    },
+    {
+        "id": "94203570-441454",
+        "score": "0.20",
+        "document": {
+            "author": "Ann Mari Buitrago",
+            "title": "Are you now or have you ever been in the FBI files?: How to secure and interpret your FBI files"
+        }
+    },
+    {
+        "id": "94203570-543779",
+        "score": "0.20",
+        "document": {
+            "author": "James Bamford",
+            "title": "Body of Secrets: Anatomy of the Ultra-Secret National Security Agency from the Cold War Through the Dawn of a New Century"
+        }
+    },
+    {
+        "id": "94203570-9907",
+        "score": "0.19",
+        "document": {
+            "author": "[Perry Lea]",
+            "title": "IoT and Edge Computing for Architects: Implementing edge and IoT systems from sensors to clouds with communication systems analytics and security 2nd Edition"
+        }
+    },
+    {
+        "id": "94203570-424779",
+        "score": "0.19",
+        "document": {
+            "author": "Edgar Cahn",
+            "title": "Time Dollars: The New Currency That Enables Americans to Turn Their Hidden Resource-Time-Into Personal Security and Community Renewal"
+        }
+    },
+    {
+        "id": "94203570-3769",
+        "score": "0.18",
+        "document": {
+            "author": "[Asjad Athick,Shay Banon]",
+            "title": "Getting Started with Elastic Stack 8.0: Run powerful and scalable data platforms to search observe and secure your organization"
+        }
+    },
+    {
+        "id": "94203570-582050",
+        "score": "0.18",
+        "document": {
+            "author": "Robert T. Kiyosaki",
+            "title": "If You Want to Be Rich &amp; Happy: Don't Go to School? : Ensuring Lifetime Security for Yourself and Your Children"
+        }
+    },
+    {
+        "id": "94203570-9521",
+        "score": "0.17",
+        "document": {
+            "author": "[JosÃ© Manuel Ortega]",
+            "title": "Mastering Python for Networking and Security: Leverage the scripts and libraries of Python version 3.7 and beyond to overcome networking and security issues 2nd Edition"
+        }
+    },
+    {
+        "id": "94203570-337016",
+        "score": "0.17",
+        "document": {
+            "author": "Harvey Karp",
+            "title": "The Happiest Toddler on the Block : The New Way to Stop the Daily Battle of Wills and Raise a Secure andWell-Behaved One- to Four-Year-Old"
+        }
+    },
+    {
+        "id": "94203570-517222",
+        "score": "0.16",
+        "document": {
+            "author": "PETER GREENBERG",
+            "title": "Hotel Secrets from the Travel Detective : Insider Tips on Getting the Best Value, Service, and Security in Accommodationsfrom Bed-and-Breakfasts to Fi ... rts (Hotel Secrets from the Travel Detective)"
+        }
+    }
+]

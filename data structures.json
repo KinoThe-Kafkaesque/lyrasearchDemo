@@ -1,0 +1,274 @@
+[
+    {
+        "id": "94569368-313615",
+        "score": "3.02",
+        "document": {
+            "author": "Rick Decker",
+            "title": "Data Structures"
+        }
+    },
+    {
+        "id": "94569368-456997",
+        "score": "1.51",
+        "document": {
+            "author": "Bhagat Singh",
+            "title": "Introduction to Data Structures"
+        }
+    },
+    {
+        "id": "94569368-538320",
+        "score": "1.51",
+        "document": {
+            "author": "Nell B. Dale",
+            "title": "Data Structures In Java"
+        }
+    },
+    {
+        "id": "94569368-4761",
+        "score": "1.21",
+        "document": {
+            "author": "[Marcello La Rocca]",
+            "title": "Advanced Algorithms and Data Structures"
+        }
+    },
+    {
+        "id": "94569368-5932",
+        "score": "1.01",
+        "document": {
+            "author": "[Mark Weiss]",
+            "title": "Data Structures & Algorithm Analysis in C++"
+        }
+    },
+    {
+        "id": "94569368-9625",
+        "score": "1.01",
+        "document": {
+            "author": "[Roberto Tamassia,Michael H. Goldwasser et al.]",
+            "title": "Data Structures and Algorithms in Python"
+        }
+    },
+    {
+        "id": "94569368-427349",
+        "score": "1.01",
+        "document": {
+            "author": "Adam Drozdek",
+            "title": "Data Structures and Algorithms in Java"
+        }
+    },
+    {
+        "id": "94569368-2538",
+        "score": "0.86",
+        "document": {
+            "author": "[Dzejla Medjedovic,Emin Tahirovic et al.]",
+            "title": "Algorithms and Data Structures for Massive Datasets"
+        }
+    },
+    {
+        "id": "94569368-6012",
+        "score": "0.86",
+        "document": {
+            "author": "[Mark Weiss]",
+            "title": "Data Structures and Algorithm Analysis in Java"
+        }
+    },
+    {
+        "id": "94569368-10085",
+        "score": "0.86",
+        "document": {
+            "author": "[Dr. RACHANA KAMBLE,AYUSHI GODIYA et al.]",
+            "title": "DATA STRUCTURE AND ALGORITHMS: BUILD IN PYTHON"
+        }
+    },
+    {
+        "id": "94569368-484655",
+        "score": "0.86",
+        "document": {
+            "author": "M. Main",
+            "title": "Data Structures &amp; Other Objects Using Java"
+        }
+    },
+    {
+        "id": "94569368-10004",
+        "score": "0.76",
+        "document": {
+            "author": "[Kenneth Lambert]",
+            "title": "Fundamentals of Python: Data Structures (MindTap Course List)"
+        }
+    },
+    {
+        "id": "94569368-5617",
+        "score": "0.67",
+        "document": {
+            "author": "[D. S. Malik]",
+            "title": "C++ Programming: Program Design Including Data Structures (MindTap Course List)"
+        }
+    },
+    {
+        "id": "94569368-484693",
+        "score": "0.67",
+        "document": {
+            "author": "Alfs T. Berztiss",
+            "title": "Data Structures: Theory and Practice (Computer Science and Applied Mathematics)"
+        }
+    },
+    {
+        "id": "94569368-2057",
+        "score": "0.60",
+        "document": {
+            "author": "[Cory Althoff]",
+            "title": "The Self-Taught Computer Scientist: The Beginners Guide to Data Structures & Algorithms"
+        }
+    },
+    {
+        "id": "94569368-8890",
+        "score": "0.60",
+        "document": {
+            "author": "[Matt Harrison]",
+            "title": "Machine Learning Pocket Reference: Working with Structured Data in Python"
+        }
+    },
+    {
+        "id": "94569368-579449",
+        "score": "0.60",
+        "document": {
+            "author": "Christopher J. Van Wyk",
+            "title": "Data Structures and C Programs (Addison-Wesley Series in Computer Science)"
+        }
+    },
+    {
+        "id": "94569368-1602",
+        "score": "0.55",
+        "document": {
+            "author": "[Jeremy Kubica]",
+            "title": "Data Structures the Fun Way: An Amusing Adventure with Coffee-Filled Examples"
+        }
+    },
+    {
+        "id": "94569368-3350",
+        "score": "0.55",
+        "document": {
+            "author": "[Peter ter Braake]",
+            "title": "Data Modeling for Azure Data Services: Implement professional data design and structures in Azure"
+        }
+    },
+    {
+        "id": "94569368-9964",
+        "score": "0.55",
+        "document": {
+            "author": "[Bradley N. Miller,David L. Ranum]",
+            "title": "Problem Solving with Algorithms and Data Structures Using Python SECOND EDITION"
+        }
+    },
+    {
+        "id": "94569368-334360",
+        "score": "0.55",
+        "document": {
+            "author": "Alfred V. Aho",
+            "title": "Data Structures and Algorithms (Addison-Wesley Series in Computer Science and Information Pr)"
+        }
+    },
+    {
+        "id": "94569368-336150",
+        "score": "0.55",
+        "document": {
+            "author": "Jean-Paul Tremblay",
+            "title": "An Introduction to Data Structures With Applications (Mcgraw-Hill Computer Science Series)"
+        }
+    },
+    {
+        "id": "94569368-559941",
+        "score": "0.47",
+        "document": {
+            "author": "Toby J Teorey",
+            "title": "Design of database structures (Prentice-Hall software series)"
+        }
+    },
+    {
+        "id": "94569368-9674",
+        "score": "0.47",
+        "document": {
+            "author": "[yang hu]",
+            "title": "Easy Learning Python 3: Python for Beginners Guide (Easy Learning Python and design patterns and data structures and algorithms)"
+        }
+    },
+    {
+        "id": "94569368-528064",
+        "score": "0.47",
+        "document": {
+            "author": "Hanan Samet",
+            "title": "The Design and Analysis of Spatial Data Structures (Addison-Wesley series in computer science)"
+        }
+    },
+    {
+        "id": "94569368-4921",
+        "score": "0.43",
+        "document": {
+            "author": "",
+            "title": "Data Structures and Algorithm Analysis in C++ Third Edition (Dover Books on Computer Science)"
+        }
+    },
+    {
+        "id": "94569368-2908",
+        "score": "0.40",
+        "document": {
+            "author": "[Chandra Sekhar Nayak,Rivu Chakraborty]",
+            "title": "Hands-On Data Structures and Algorithms with Kotlin: Level up your programming skills understanding how Kotlins data structure works"
+        }
+    },
+    {
+        "id": "94569368-5201",
+        "score": "0.40",
+        "document": {
+            "author": "[Yan Piaw Chua]",
+            "title": "A Step Step Guide PLS-SEM Data Analysis Using SmartPLS 4 (Partial least squares structural equation modeling)"
+        }
+    },
+    {
+        "id": "94569368-5485",
+        "score": "0.40",
+        "document": {
+            "author": "[Matthew Topol,Wes McKinney]",
+            "title": "In-Memory Analytics with Apache Arrow: Perform fast and efficient data analytics on both flat and hierarchical structured data"
+        }
+    },
+    {
+        "id": "94569368-9850",
+        "score": "0.40",
+        "document": {
+            "author": "[yang hu]",
+            "title": "Algorithms Python (2 Edition): Easy to learn algorithms through full-color diagrams. (Easy Learning Python and design patterns and data structures and algorithms)"
+        }
+    },
+    {
+        "id": "94569368-5729",
+        "score": "0.38",
+        "document": {
+            "author": "[Jay Wengrow]",
+            "title": "A Common-Sense Guide to Data Structures and Algorithms Second Edition: Level Up Your Core Programming Skills"
+        }
+    },
+    {
+        "id": "94569368-9655",
+        "score": "0.36",
+        "document": {
+            "author": "[yang hu]",
+            "title": "Full-Color Illustration Data Structrues & Algorithms Python: Easy and Interesting to Learn Through Full-Color Diagrams (Python Foundation & Design Patterns & Data Structures & Algorithms)"
+        }
+    },
+    {
+        "id": "94569368-3882",
+        "score": "0.34",
+        "document": {
+            "author": "[Rajdeep Dua]",
+            "title": "Mastering TensorFlow 2.x: Implement Powerful Neural Nets across Structured Unstructured datasets and Time Series Data (English Edition)"
+        }
+    },
+    {
+        "id": "94569368-2208",
+        "score": "0.32",
+        "document": {
+            "author": "[Dr. Basant Agarwal]",
+            "title": "Hands-On Data Structures and Algorithms with Python: Store manipulate and access data effectively and boost the performance of your applications 3rd Edition"
+        }
+    }
+]

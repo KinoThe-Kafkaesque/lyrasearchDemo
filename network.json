@@ -1,0 +1,1586 @@
+[
+    {
+        "id": "93969303-587353",
+        "score": "1.94",
+        "document": {
+            "author": "Food Network Kitchens",
+            "title": "Food Network Kitchens Cookbook: Fresh Ideas, Bold Flavors, Tips &amp; Techniques (Food Network)"
+        }
+    },
+    {
+        "id": "93969303-172501",
+        "score": "1.57",
+        "document": {
+            "author": "Andrew S. Tanenbaum",
+            "title": "Computer Networks"
+        }
+    },
+    {
+        "id": "93969303-299009",
+        "score": "1.57",
+        "document": {
+            "author": "Eddie Kee",
+            "title": "Networking Illustrated"
+        }
+    },
+    {
+        "id": "93969303-361434",
+        "score": "1.57",
+        "document": {
+            "author": "Sean Flannery",
+            "title": "Zebra Network"
+        }
+    },
+    {
+        "id": "93969303-508315",
+        "score": "1.57",
+        "document": {
+            "author": "Trevor Scott",
+            "title": "Fatal Network"
+        }
+    },
+    {
+        "id": "93969303-556700",
+        "score": "1.57",
+        "document": {
+            "author": "Sybex",
+            "title": "Networking Complete"
+        }
+    },
+    {
+        "id": "93969303-146223",
+        "score": "1.05",
+        "document": {
+            "author": "Carl Malamud",
+            "title": "Analyzing Sun networks"
+        }
+    },
+    {
+        "id": "93969303-288260",
+        "score": "1.05",
+        "document": {
+            "author": "Bruce Bugbee",
+            "title": "Network Participant's Guide"
+        }
+    },
+    {
+        "id": "93969303-331906",
+        "score": "1.05",
+        "document": {
+            "author": "Tamara Dean",
+            "title": "Network+ CoursePrep ExamGuide"
+        }
+    },
+    {
+        "id": "93969303-331922",
+        "score": "1.05",
+        "document": {
+            "author": "Palmer",
+            "title": "Advanced Networking Concepts"
+        }
+    },
+    {
+        "id": "93969303-334402",
+        "score": "1.05",
+        "document": {
+            "author": "W. Richard Stevens",
+            "title": "UNIX Network Programming"
+        }
+    },
+    {
+        "id": "93969303-410306",
+        "score": "1.05",
+        "document": {
+            "author": "Doug Lowe",
+            "title": "Networking for Dummies"
+        }
+    },
+    {
+        "id": "93969303-415653",
+        "score": "1.05",
+        "document": {
+            "author": "Barry Nance",
+            "title": "Introduction to Networking"
+        }
+    },
+    {
+        "id": "93969303-419886",
+        "score": "1.05",
+        "document": {
+            "author": "Mark Sportack",
+            "title": "High-Performance Networking Unleashed"
+        }
+    },
+    {
+        "id": "93969303-447016",
+        "score": "1.05",
+        "document": {
+            "author": "Claire Sterling",
+            "title": "The Terror Network"
+        }
+    },
+    {
+        "id": "93969303-457923",
+        "score": "1.05",
+        "document": {
+            "author": "Hugo Toledo",
+            "title": "Oracle Networking (Oracle Series)"
+        }
+    },
+    {
+        "id": "93969303-474315",
+        "score": "1.05",
+        "document": {
+            "author": "David A. Stamper",
+            "title": "Local Area Networks"
+        }
+    },
+    {
+        "id": "93969303-493877",
+        "score": "1.05",
+        "document": {
+            "author": "Darren L. Spohn",
+            "title": "Data Network Design"
+        }
+    },
+    {
+        "id": "93969303-506013",
+        "score": "1.05",
+        "document": {
+            "author": "Ivan R. Misner",
+            "title": "Masters of Networking"
+        }
+    },
+    {
+        "id": "93969303-518173",
+        "score": "1.05",
+        "document": {
+            "author": "Peter Dyson",
+            "title": "Dictionary of Networking"
+        }
+    },
+    {
+        "id": "93969303-528356",
+        "score": "1.05",
+        "document": {
+            "author": "David Kosiur",
+            "title": "Macworld Networking Handbook"
+        }
+    },
+    {
+        "id": "93969303-544821",
+        "score": "1.05",
+        "document": {
+            "author": "Fred Butzen",
+            "title": "The LINUX® Network"
+        }
+    },
+    {
+        "id": "93969303-549700",
+        "score": "1.05",
+        "document": {
+            "author": "Claire Sterling",
+            "title": "The Terror Network"
+        }
+    },
+    {
+        "id": "93969303-339001",
+        "score": "0.99",
+        "document": {
+            "author": "A &amp; E Television Network",
+            "title": "Amelia Earhart: Queen of the Air (Biography Audiobooks)"
+        }
+    },
+    {
+        "id": "93969303-507106",
+        "score": "0.99",
+        "document": {
+            "author": "A &amp; E Television Network",
+            "title": "John F. Kennedy: A Personal Story (Biography Audiobooks)"
+        }
+    },
+    {
+        "id": "93969303-119593",
+        "score": "0.79",
+        "document": {
+            "author": "Thomas J. Stanley",
+            "title": "Networking with the Affluent"
+        }
+    },
+    {
+        "id": "93969303-138505",
+        "score": "0.79",
+        "document": {
+            "author": "Olaf Kirch",
+            "title": "Linux Network Administrator's Guide"
+        }
+    },
+    {
+        "id": "93969303-155476",
+        "score": "0.79",
+        "document": {
+            "author": "Craig Hunt",
+            "title": "TCP/IP Network Administration"
+        }
+    },
+    {
+        "id": "93969303-157523",
+        "score": "0.79",
+        "document": {
+            "author": "Tom Clark",
+            "title": "Designing Storage Area Networks"
+        }
+    },
+    {
+        "id": "93969303-160494",
+        "score": "0.79",
+        "document": {
+            "author": "Stephen P.M. Bridges",
+            "title": "Low-cost Local Area Networks"
+        }
+    },
+    {
+        "id": "93969303-163933",
+        "score": "0.79",
+        "document": {
+            "author": "Cheryl C.  Currid",
+            "title": "Novell's Introduction to Networking"
+        }
+    },
+    {
+        "id": "93969303-172504",
+        "score": "0.79",
+        "document": {
+            "author": "Neil Jenkins",
+            "title": "Understanding Local Area Networks"
+        }
+    },
+    {
+        "id": "93969303-185501",
+        "score": "0.79",
+        "document": {
+            "author": "John R. Vacca",
+            "title": "Wireless Broadband Networks Handbook"
+        }
+    },
+    {
+        "id": "93969303-227655",
+        "score": "0.79",
+        "document": {
+            "author": "Martin Freiss",
+            "title": "Protecting Networks with SATAN"
+        }
+    },
+    {
+        "id": "93969303-298531",
+        "score": "0.79",
+        "document": {
+            "author": "Kathy Ivens",
+            "title": "Home Networking for Dummies"
+        }
+    },
+    {
+        "id": "93969303-310239",
+        "score": "0.79",
+        "document": {
+            "author": "Paul Whitehead",
+            "title": "Teach Yourself Networking Visually"
+        }
+    },
+    {
+        "id": "93969303-313712",
+        "score": "0.79",
+        "document": {
+            "author": "Craig Hunt",
+            "title": "TCP/IP Network Administration"
+        }
+    },
+    {
+        "id": "93969303-410311",
+        "score": "0.79",
+        "document": {
+            "author": "Zig  Ziglar",
+            "title": "Network Marketing for Dummies"
+        }
+    },
+    {
+        "id": "93969303-463082",
+        "score": "0.79",
+        "document": {
+            "author": "Stephen W. Sagman",
+            "title": "Traveling the Microsoft Network"
+        }
+    },
+    {
+        "id": "93969303-500941",
+        "score": "0.79",
+        "document": {
+            "author": "J. Allen",
+            "title": "Brain Strain: Cartoon Network"
+        }
+    },
+    {
+        "id": "93969303-504509",
+        "score": "0.79",
+        "document": {
+            "author": "Fred Smith",
+            "title": "You and Your Network"
+        }
+    },
+    {
+        "id": "93969303-514781",
+        "score": "0.79",
+        "document": {
+            "author": "Kevin Shafer",
+            "title": "Novell's Encyclopedia of Networking"
+        }
+    },
+    {
+        "id": "93969303-518188",
+        "score": "0.79",
+        "document": {
+            "author": "Douglas E. Comer",
+            "title": "Computer Networks &amp; Internets"
+        }
+    },
+    {
+        "id": "93969303-538093",
+        "score": "0.79",
+        "document": {
+            "author": "Joanne Woodcock",
+            "title": "Step Up to Networking"
+        }
+    },
+    {
+        "id": "93969303-568521",
+        "score": "0.79",
+        "document": {
+            "author": "Srinivasa Sivakumar",
+            "title": "Professional .NET Network Programming"
+        }
+    },
+    {
+        "id": "93969303-41298",
+        "score": "0.63",
+        "document": {
+            "author": "Karanjit, Ph.D. Siyan",
+            "title": "Internet Firewalls and Network Security"
+        }
+    },
+    {
+        "id": "93969303-76953",
+        "score": "0.63",
+        "document": {
+            "author": "John Milton Fogg",
+            "title": "Greatest Networker In the World"
+        }
+    },
+    {
+        "id": "93969303-164323",
+        "score": "0.63",
+        "document": {
+            "author": "Doug Lowe",
+            "title": "Networking for Dummies, First Edition"
+        }
+    },
+    {
+        "id": "93969303-210436",
+        "score": "0.63",
+        "document": {
+            "author": "Mark Gibbs",
+            "title": "Absolute Beginner's Guide to Networking"
+        }
+    },
+    {
+        "id": "93969303-290000",
+        "score": "0.63",
+        "document": {
+            "author": "Oleg Kolesnikov",
+            "title": "Building Linux Virtual Private Networks"
+        }
+    },
+    {
+        "id": "93969303-291559",
+        "score": "0.63",
+        "document": {
+            "author": "John Milton Fogg",
+            "title": "The Greatest Networker in the World"
+        }
+    },
+    {
+        "id": "93969303-323293",
+        "score": "0.63",
+        "document": {
+            "author": "Doug Lowe",
+            "title": "Networking for Dummies, Third Edition"
+        }
+    },
+    {
+        "id": "93969303-331901",
+        "score": "0.63",
+        "document": {
+            "author": "Tamara Dean",
+            "title": "Network+ Guide to Networks, Second Edition"
+        }
+    },
+    {
+        "id": "93969303-331915",
+        "score": "0.63",
+        "document": {
+            "author": "Emmett Dulaney",
+            "title": "MCSE Fast Track: Networking Essentials"
+        }
+    },
+    {
+        "id": "93969303-410300",
+        "score": "0.63",
+        "document": {
+            "author": "Robert Aschermann",
+            "title": "MCSE Networking Essentials for Dummies"
+        }
+    },
+    {
+        "id": "93969303-412984",
+        "score": "0.63",
+        "document": {
+            "author": "Michael Palmer",
+            "title": "Hands-On Networking Essentials With Projects"
+        }
+    },
+    {
+        "id": "93969303-467810",
+        "score": "0.63",
+        "document": {
+            "author": "Peter Norton",
+            "title": "Peter Norton's Network Security Fundamentals"
+        }
+    },
+    {
+        "id": "93969303-484502",
+        "score": "0.63",
+        "document": {
+            "author": "Doug  Lowe",
+            "title": "Networking for Dummies, Sixth Edition"
+        }
+    },
+    {
+        "id": "93969303-508387",
+        "score": "0.63",
+        "document": {
+            "author": "Drew Heywood",
+            "title": "Networking With Microsoft Tcp/Ip"
+        }
+    },
+    {
+        "id": "93969303-508582",
+        "score": "0.63",
+        "document": {
+            "author": "Glenn Weadock",
+            "title": "Small Business Networking for Dummies"
+        }
+    },
+    {
+        "id": "93969303-510022",
+        "score": "0.63",
+        "document": {
+            "author": "James Chellis",
+            "title": "MCSE : Networking Essentials Study Guide"
+        }
+    },
+    {
+        "id": "93969303-556444",
+        "score": "0.63",
+        "document": {
+            "author": "Ed Tittel",
+            "title": "MCSE Networking Essentials Exam Cram"
+        }
+    },
+    {
+        "id": "93969303-571208",
+        "score": "0.63",
+        "document": {
+            "author": "Paul G. Sery",
+            "title": "Red Hat Linux Network Toolkit"
+        }
+    },
+    {
+        "id": "93969303-583509",
+        "score": "0.63",
+        "document": {
+            "author": "John D. Ruley",
+            "title": "Networking Windows Nt 3.51"
+        }
+    },
+    {
+        "id": "93969303-592134",
+        "score": "0.63",
+        "document": {
+            "author": "Ed Tittel",
+            "title": "Windows NT Networking for Dummies"
+        }
+    },
+    {
+        "id": "93969303-200643",
+        "score": "0.52",
+        "document": {
+            "author": "Cheryl C. Currid",
+            "title": "Novell's Introduction to Networking (Novell Press)"
+        }
+    },
+    {
+        "id": "93969303-268197",
+        "score": "0.52",
+        "document": {
+            "author": "Albert-László Barabási",
+            "title": "Linked: The New Science of Networks"
+        }
+    },
+    {
+        "id": "93969303-278339",
+        "score": "0.52",
+        "document": {
+            "author": "Lisa Donald",
+            "title": "MCSE JumpStart: Computer and Network Basics"
+        }
+    },
+    {
+        "id": "93969303-287440",
+        "score": "0.52",
+        "document": {
+            "author": "Mathias Hein",
+            "title": "Switching Technology in the Local Network"
+        }
+    },
+    {
+        "id": "93969303-360868",
+        "score": "0.52",
+        "document": {
+            "author": "Stephen G. Kochan",
+            "title": "Unix Networking (Hayden Books Unix System Library)"
+        }
+    },
+    {
+        "id": "93969303-360888",
+        "score": "0.52",
+        "document": {
+            "author": "Stephen A. Rago",
+            "title": "UNIX(R) System V Network Programming"
+        }
+    },
+    {
+        "id": "93969303-387605",
+        "score": "0.52",
+        "document": {
+            "author": "Scott M. Ballew",
+            "title": "Managing IP Networks with Cisco Routers"
+        }
+    },
+    {
+        "id": "93969303-415648",
+        "score": "0.52",
+        "document": {
+            "author": "Mark Miller",
+            "title": "Internetworking: A Guide to Network Communications"
+        }
+    },
+    {
+        "id": "93969303-493266",
+        "score": "0.52",
+        "document": {
+            "author": "Bill Wagner",
+            "title": "The Complete Idiot's Guide to Networking"
+        }
+    },
+    {
+        "id": "93969303-508572",
+        "score": "0.52",
+        "document": {
+            "author": "Paul  Whitehead",
+            "title": "Teach Yourself VISUALLY Networking, 2nd Edition"
+        }
+    },
+    {
+        "id": "93969303-545158",
+        "score": "0.52",
+        "document": {
+            "author": "Joseph D. Sloan",
+            "title": "Network Troubleshooting Tools (O'Reilly System Administration)"
+        }
+    },
+    {
+        "id": "93969303-583749",
+        "score": "0.52",
+        "document": {
+            "author": "John Blommers",
+            "title": "Architecting Enterprise Solutions with UNIX Networking"
+        }
+    },
+    {
+        "id": "93969303-583782",
+        "score": "0.52",
+        "document": {
+            "author": "Stephen Northcutt",
+            "title": "Network Intrusion Detection: An Analysts' Handbook"
+        }
+    },
+    {
+        "id": "93969303-3741",
+        "score": "0.45",
+        "document": {
+            "author": "[Lingfei Wu,Peng Cui et al.]",
+            "title": "Graph Neural Networks: Foundations Frontiers and Applications"
+        }
+    },
+    {
+        "id": "93969303-7021",
+        "score": "0.45",
+        "document": {
+            "author": "[Perez]",
+            "title": "DEEP LEARNING TOOLS: NEURAL NETWORKS USING MATLAB"
+        }
+    },
+    {
+        "id": "93969303-7656",
+        "score": "0.45",
+        "document": {
+            "author": "[Charu C. Aggarwal]",
+            "title": "Neural Networks and Deep Learning: A Textbook"
+        }
+    },
+    {
+        "id": "93969303-33525",
+        "score": "0.45",
+        "document": {
+            "author": "Todd Lammle",
+            "title": "CCNA: Cisco Certified Network Associate Study Guide"
+        }
+    },
+    {
+        "id": "93969303-33534",
+        "score": "0.45",
+        "document": {
+            "author": "Todd Lammle",
+            "title": "CCNA Exam Notes: Cisco Certified Network Associate"
+        }
+    },
+    {
+        "id": "93969303-81610",
+        "score": "0.45",
+        "document": {
+            "author": "Ryan Russell",
+            "title": "Stealing the Network: How to Own the Box"
+        }
+    },
+    {
+        "id": "93969303-171318",
+        "score": "0.45",
+        "document": {
+            "author": "Stuart McClure",
+            "title": "Hacking Exposed: Network Security Secrets &amp; Solutions (Hacking Exposed)"
+        }
+    },
+    {
+        "id": "93969303-275359",
+        "score": "0.45",
+        "document": {
+            "author": "Vito Amato",
+            "title": "Cisco Networking Academy Program: First-Year Companion Guide"
+        }
+    },
+    {
+        "id": "93969303-347359",
+        "score": "0.45",
+        "document": {
+            "author": "Joseph Amiel",
+            "title": "Star Time: A Novel of Network News"
+        }
+    },
+    {
+        "id": "93969303-360848",
+        "score": "0.45",
+        "document": {
+            "author": "Allan Leinwand",
+            "title": "Network Management: A Practical Perspective (2nd Edition)"
+        }
+    },
+    {
+        "id": "93969303-360895",
+        "score": "0.45",
+        "document": {
+            "author": "Thomas A. Limoncelli",
+            "title": "The Practice of System and Network Administration"
+        }
+    },
+    {
+        "id": "93969303-382551",
+        "score": "0.45",
+        "document": {
+            "author": "Craig Hunt",
+            "title": "TCP/IP Network Administration (3rd Edition; O'Reilly Networking)"
+        }
+    },
+    {
+        "id": "93969303-384983",
+        "score": "0.45",
+        "document": {
+            "author": "Patrick H. Corrigan",
+            "title": "Building Local Area Networks With Novell's Netware"
+        }
+    },
+    {
+        "id": "93969303-387590",
+        "score": "0.45",
+        "document": {
+            "author": "Charlie Scott",
+            "title": "Virtual Private Networks, 2nd Edition (O'Reilly Nutshell)"
+        }
+    },
+    {
+        "id": "93969303-415553",
+        "score": "0.45",
+        "document": {
+            "author": "Brent Heslop",
+            "title": "The Instant Internet Guide: Hands-On Global Networking"
+        }
+    },
+    {
+        "id": "93969303-426565",
+        "score": "0.45",
+        "document": {
+            "author": "Rob Cima",
+            "title": "Windows 95 Connectivity: Easy Networking for Everybody"
+        }
+    },
+    {
+        "id": "93969303-426588",
+        "score": "0.45",
+        "document": {
+            "author": "Hank Carbeck",
+            "title": "MCSE Windows 2000 Network Exam Cram (Exam: 70-216)"
+        }
+    },
+    {
+        "id": "93969303-445407",
+        "score": "0.45",
+        "document": {
+            "author": "Catherine Alliott",
+            "title": "Old Girl Network/Real Thing 2: The Old Girl Network/ The Real Thing"
+        }
+    },
+    {
+        "id": "93969303-452370",
+        "score": "0.45",
+        "document": {
+            "author": "Dixon R. Doll",
+            "title": "Data Communications: Facilities, Networks, and Systems Design"
+        }
+    },
+    {
+        "id": "93969303-458409",
+        "score": "0.45",
+        "document": {
+            "author": "Syngress Media Inc.",
+            "title": "MCSE Networking Essentials Study Guide (Exam 70-58)"
+        }
+    },
+    {
+        "id": "93969303-467811",
+        "score": "0.45",
+        "document": {
+            "author": "Robert Mastin",
+            "title": "Telecom &amp; Networking Glossary: Understanding Communications Technology"
+        }
+    },
+    {
+        "id": "93969303-490518",
+        "score": "0.45",
+        "document": {
+            "author": "R. R. Panko",
+            "title": "Business Data Networks and Telecommunications (4th Edition)"
+        }
+    },
+    {
+        "id": "93969303-494634",
+        "score": "0.45",
+        "document": {
+            "author": "David Groth",
+            "title": "Cabling: The Complete Guide to Network Wiring"
+        }
+    },
+    {
+        "id": "93969303-508589",
+        "score": "0.45",
+        "document": {
+            "author": "Robert  Aschermann",
+            "title": "MCSE Networking Essentials for Dummies (with CD-ROM)"
+        }
+    },
+    {
+        "id": "93969303-534376",
+        "score": "0.45",
+        "document": {
+            "author": "Mark C. Taylor",
+            "title": "The Moment of Complexity: Emerging Network Culture"
+        }
+    },
+    {
+        "id": "93969303-553745",
+        "score": "0.45",
+        "document": {
+            "author": "John Pivovarnick",
+            "title": "The Complete Idiot's Guide to the Microsoft Network"
+        }
+    },
+    {
+        "id": "93969303-582124",
+        "score": "0.45",
+        "document": {
+            "author": "Mark C. Taylor",
+            "title": "The Moment of Complexity : Emerging Network Culture"
+        }
+    },
+    {
+        "id": "93969303-2306",
+        "score": "0.39",
+        "document": {
+            "author": "",
+            "title": "Inferential Network Analysis (Analytical Methods for Social Research)"
+        }
+    },
+    {
+        "id": "93969303-5226",
+        "score": "0.39",
+        "document": {
+            "author": "[Michael Collins]",
+            "title": "Network Security Through Data Analysis: From Data to Action"
+        }
+    },
+    {
+        "id": "93969303-6782",
+        "score": "0.39",
+        "document": {
+            "author": "[Michael Lanham]",
+            "title": "Evolutionary Deep Learning: Genetic algorithms and neural networks"
+        }
+    },
+    {
+        "id": "93969303-185506",
+        "score": "0.39",
+        "document": {
+            "author": "Gilbert Held",
+            "title": "Data Over Wireless  Networks: Bluetooth, WAP, and Wireless LANs"
+        }
+    },
+    {
+        "id": "93969303-242836",
+        "score": "0.39",
+        "document": {
+            "author": "Charlie Kaufman",
+            "title": "Network Security: Private Communication in a Public World"
+        }
+    },
+    {
+        "id": "93969303-274761",
+        "score": "0.39",
+        "document": {
+            "author": "Richard Poe",
+            "title": "Wave Three: The New Era in Network Marketing"
+        }
+    },
+    {
+        "id": "93969303-331622",
+        "score": "0.39",
+        "document": {
+            "author": "James E.  Goldman",
+            "title": "Local Area Networks: A Business-Oriented Approach (2nd Edition)"
+        }
+    },
+    {
+        "id": "93969303-331732",
+        "score": "0.39",
+        "document": {
+            "author": "Janathan Feldman",
+            "title": "Sams Teach Yourself Network Troubleshooting in 24 Hours"
+        }
+    },
+    {
+        "id": "93969303-335422",
+        "score": "0.39",
+        "document": {
+            "author": "Heather T. Brown",
+            "title": "Home Networking with Microsoft Windows XP Step by Step (Step by Step (Microsoft))"
+        }
+    },
+    {
+        "id": "93969303-387553",
+        "score": "0.39",
+        "document": {
+            "author": "Stephen Northcutt",
+            "title": "Network Intrusion Detection: An Analyst's Handbook (2nd Edition)"
+        }
+    },
+    {
+        "id": "93969303-406224",
+        "score": "0.39",
+        "document": {
+            "author": "Lars Klander",
+            "title": "Hacker Proof : The Ultimate Guide to Network Security"
+        }
+    },
+    {
+        "id": "93969303-407334",
+        "score": "0.39",
+        "document": {
+            "author": "Huntington Williams",
+            "title": "Beyond Control: ABC and the Fate of the Networks"
+        }
+    },
+    {
+        "id": "93969303-410196",
+        "score": "0.39",
+        "document": {
+            "author": "Richard Poe",
+            "title": "Wave 4: Network Marketing in the 21st Century"
+        }
+    },
+    {
+        "id": "93969303-452394",
+        "score": "0.39",
+        "document": {
+            "author": "Matthew G. Naugle",
+            "title": "Local Area Networking (Mcgraw-Hill Series on Computer Communications)"
+        }
+    },
+    {
+        "id": "93969303-457799",
+        "score": "0.39",
+        "document": {
+            "author": "Marshall Brain",
+            "title": "Windows NT Administration: Single Systems to Heterogeneous Networks"
+        }
+    },
+    {
+        "id": "93969303-487306",
+        "score": "0.39",
+        "document": {
+            "author": "Mark A.  Miller",
+            "title": "Voice Over IP Technologies: Building the Converged Network"
+        }
+    },
+    {
+        "id": "93969303-582064",
+        "score": "0.39",
+        "document": {
+            "author": "Bob Burg",
+            "title": "Endless Referrals: Network Your Everyday Contacts into Sales"
+        }
+    },
+    {
+        "id": "93969303-6233",
+        "score": "0.35",
+        "document": {
+            "author": "[Shanqing Cai,Stan Bileschi et al.]",
+            "title": "Deep Learning with JavaScript: Neural networks in TensorFlow.js"
+        }
+    },
+    {
+        "id": "93969303-6850",
+        "score": "0.35",
+        "document": {
+            "author": "[Jakub Langr,Vladimir Bok]",
+            "title": "GANs in Action: Deep learning with Generative Adversarial Networks"
+        }
+    },
+    {
+        "id": "93969303-50082",
+        "score": "0.35",
+        "document": {
+            "author": "Todd Lammle",
+            "title": "CCNA: Cisco Certified Network Associate Study Guide, Third Edition"
+        }
+    },
+    {
+        "id": "93969303-99446",
+        "score": "0.35",
+        "document": {
+            "author": "Todd Lammle",
+            "title": "CCNA Cisco Certified Network Associate : Study Guide (with CD-ROM)"
+        }
+    },
+    {
+        "id": "93969303-146224",
+        "score": "0.35",
+        "document": {
+            "author": "Craig Hunt",
+            "title": "Networking Personal Computers with TCP/IP: Building TCP/IP Networks (O'Reilly Nutshell)"
+        }
+    },
+    {
+        "id": "93969303-190274",
+        "score": "0.35",
+        "document": {
+            "author": "Tim Ormsby",
+            "title": "Extending ArcView GIS: with Network Analyst, Spatial Analyst and 3D Analyst"
+        }
+    },
+    {
+        "id": "93969303-197391",
+        "score": "0.35",
+        "document": {
+            "author": "Mark Buchanan",
+            "title": "Nexus: Small Worlds and the Groundbreaking Theory of Networks"
+        }
+    },
+    {
+        "id": "93969303-198521",
+        "score": "0.35",
+        "document": {
+            "author": "Microsoft Corporation",
+            "title": "MCSE Training Kit: Designing Microsoft Windows 2000 Network Security"
+        }
+    },
+    {
+        "id": "93969303-204094",
+        "score": "0.35",
+        "document": {
+            "author": "Drew Heywood",
+            "title": "Networking with Microsoft TCP/IP Certified Administrator's Resource Edition"
+        }
+    },
+    {
+        "id": "93969303-259421",
+        "score": "0.35",
+        "document": {
+            "author": "Wayne Robertson",
+            "title": "Windows 95 and NT Networking: A Guide for Professionals"
+        }
+    },
+    {
+        "id": "93969303-263267",
+        "score": "0.35",
+        "document": {
+            "author": "Tracy L LaQuey",
+            "title": "The Internet companion: A beginner's guide to global networking"
+        }
+    },
+    {
+        "id": "93969303-313968",
+        "score": "0.35",
+        "document": {
+            "author": "Bruce  Schneier",
+            "title": "Secrets and Lies : Digital Security in a Networked World"
+        }
+    },
+    {
+        "id": "93969303-334375",
+        "score": "0.35",
+        "document": {
+            "author": "W. Richard Stevens",
+            "title": "UNIX Network Programming, Volume 2: Interprocess Communications (2nd Edition)"
+        }
+    },
+    {
+        "id": "93969303-337028",
+        "score": "0.35",
+        "document": {
+            "author": "Stuart  McClure",
+            "title": "Hacking Exposed: Network Security Secrets &amp; Solutions, Fourth Edition (Hacking Exposed)"
+        }
+    },
+    {
+        "id": "93969303-385969",
+        "score": "0.35",
+        "document": {
+            "author": "Stuart McClure",
+            "title": "Hacking Exposed: Network Security Secrets &amp; Solutions, Third Edition (Hacking Exposed)"
+        }
+    },
+    {
+        "id": "93969303-433162",
+        "score": "0.35",
+        "document": {
+            "author": "Anil Desai",
+            "title": "Windows NT Network Management Reducing Total Cost of Ownership"
+        }
+    },
+    {
+        "id": "93969303-458319",
+        "score": "0.35",
+        "document": {
+            "author": "Carl Shapiro",
+            "title": "Information Rules: A Strategic Guide to the Network Economy"
+        }
+    },
+    {
+        "id": "93969303-489642",
+        "score": "0.35",
+        "document": {
+            "author": "Charles C. Poirier",
+            "title": "Supply Chain Optimization: Building the Strongest Total Business Network"
+        }
+    },
+    {
+        "id": "93969303-492527",
+        "score": "0.35",
+        "document": {
+            "author": "James Chellis",
+            "title": "MCSE: Networking Essentials Study Guide (2nd Edition/Cd Rom)"
+        }
+    },
+    {
+        "id": "93969303-512901",
+        "score": "0.35",
+        "document": {
+            "author": "Drew Heywood",
+            "title": "Networking with Microsoft TCP/IP Certified Administrator's Resource Edition"
+        }
+    },
+    {
+        "id": "93969303-7916",
+        "score": "0.31",
+        "document": {
+            "author": "[Phil Kim]",
+            "title": "MATLAB Deep Learning: With Machine Learning Neural Networks and Artificial Intelligence"
+        }
+    },
+    {
+        "id": "93969303-95504",
+        "score": "0.31",
+        "document": {
+            "author": "Donald M. Epstein",
+            "title": "The 12 Stages of Healing: A Network Approach to Wholeness"
+        }
+    },
+    {
+        "id": "93969303-113032",
+        "score": "0.31",
+        "document": {
+            "author": "Bill Carter",
+            "title": "The Late Shift: Letterman, Leno, and the Network Battle for the Night"
+        }
+    },
+    {
+        "id": "93969303-246166",
+        "score": "0.31",
+        "document": {
+            "author": "John Milton Fogg",
+            "title": "Conversations With the Greatest Networker in the World: More of the Story"
+        }
+    },
+    {
+        "id": "93969303-253056",
+        "score": "0.31",
+        "document": {
+            "author": "Mona Lisa Schulz",
+            "title": "Awakening Intuition: Using Your Mind-Body Network for Insight and Healing"
+        }
+    },
+    {
+        "id": "93969303-281468",
+        "score": "0.31",
+        "document": {
+            "author": "Fred Smith",
+            "title": "You and Your Network: Getting the Most Out of Life"
+        }
+    },
+    {
+        "id": "93969303-294600",
+        "score": "0.31",
+        "document": {
+            "author": "Ken Auletta",
+            "title": "Three Blind Mice: How the TV Networks Lost Their Way"
+        }
+    },
+    {
+        "id": "93969303-295909",
+        "score": "0.31",
+        "document": {
+            "author": "Ken Auletta",
+            "title": "3 Blind Mice How the TV Networks Lost Their Way"
+        }
+    },
+    {
+        "id": "93969303-331631",
+        "score": "0.31",
+        "document": {
+            "author": "Course Technology",
+            "title": "MCSE Lab Manual for Designing a Windows 2000 Network Infrastructure"
+        }
+    },
+    {
+        "id": "93969303-331787",
+        "score": "0.31",
+        "document": {
+            "author": "Michael J. Palmer",
+            "title": "A Guide to Designing and Implementing Local and Wide Area Networks"
+        }
+    },
+    {
+        "id": "93969303-334404",
+        "score": "0.31",
+        "document": {
+            "author": "W. Richard Stevens",
+            "title": "Unix Network Programming, Vol. 1: The Sockets Networking API, Third Edition"
+        }
+    },
+    {
+        "id": "93969303-409625",
+        "score": "0.31",
+        "document": {
+            "author": "David Goldman",
+            "title": "L.A. SECRET POLICE: INSIDE THE LAPD ELITE SPY NETWORK : L.A. SECRET POLICE: INSIDE THE LAPD ELITE SPY NETWORK"
+        }
+    },
+    {
+        "id": "93969303-587923",
+        "score": "0.31",
+        "document": {
+            "author": "Mary Scott Welch",
+            "title": "Networking: The great new way for women to get ahead"
+        }
+    },
+    {
+        "id": "93969303-5863",
+        "score": "0.29",
+        "document": {
+            "author": "[Nipun Jaswal]",
+            "title": "Hands-On Network Forensics: Investigate network attacks and find evidence using common network forensic tools"
+        }
+    },
+    {
+        "id": "93969303-7256",
+        "score": "0.29",
+        "document": {
+            "author": "[Vivienne Sze,Yu-Hsin Chen et al.]",
+            "title": "Efficient Processing of Deep Neural Networks (Synthesis Lectures on Computer Architecture)"
+        }
+    },
+    {
+        "id": "93969303-141597",
+        "score": "0.29",
+        "document": {
+            "author": "Microsoft Corporation",
+            "title": "Networking Essentials: Hands-On, Self-Paced Training for Supporting Local and Wide Area Networks"
+        }
+    },
+    {
+        "id": "93969303-198522",
+        "score": "0.29",
+        "document": {
+            "author": "Thomas Shinder",
+            "title": "MCSE Windows 2000 Network Administration Study Guide (Exam 70-216) (Book/CD-ROM)"
+        }
+    },
+    {
+        "id": "93969303-237360",
+        "score": "0.29",
+        "document": {
+            "author": "Peter J. Boyer",
+            "title": "Who Killed CBS: The Undoing of America's Number One News Network"
+        }
+    },
+    {
+        "id": "93969303-527902",
+        "score": "0.29",
+        "document": {
+            "author": "Peter J. Boyer",
+            "title": "Who Killed Cbs?: The Undoing of America's Number One News Network"
+        }
+    },
+    {
+        "id": "93969303-544567",
+        "score": "0.29",
+        "document": {
+            "author": "Michael S. Clouse",
+            "title": "Future Choice : Why Network Marketing May Be Your Best Career Move"
+        }
+    },
+    {
+        "id": "93969303-592690",
+        "score": "0.29",
+        "document": {
+            "author": "Tim Brooks",
+            "title": "The Complete Dictionary of Prime Time Network Television 1946 to Present"
+        }
+    },
+    {
+        "id": "93969303-6443",
+        "score": "0.26",
+        "document": {
+            "author": "[Ronald T. Kneusel]",
+            "title": "Math for Deep Learning: What You Need to Know to Understand Neural Networks"
+        }
+    },
+    {
+        "id": "93969303-7022",
+        "score": "0.26",
+        "document": {
+            "author": "[Bert Moons,Daniel Bankman et al.]",
+            "title": "Embedded Deep Learning: Algorithms Architectures and Circuits for Always-on Neural Network Processing"
+        }
+    },
+    {
+        "id": "93969303-330122",
+        "score": "0.26",
+        "document": {
+            "author": "J. Nader",
+            "title": "How to Lose Friends &amp; Infuriate People: Leadership in the Networked World"
+        }
+    },
+    {
+        "id": "93969303-394077",
+        "score": "0.26",
+        "document": {
+            "author": "Stephen Manes",
+            "title": "The Oscar J. Noodleman Television Network: The Second Strange Thing That Happened to Oscar Noodleman"
+        }
+    },
+    {
+        "id": "93969303-485628",
+        "score": "0.26",
+        "document": {
+            "author": "Katharine Hansen",
+            "title": "A Foot in the Door: Networking Your Way into the Hidden Job Market"
+        }
+    },
+    {
+        "id": "93969303-557422",
+        "score": "0.26",
+        "document": {
+            "author": "Randall Stevens",
+            "title": "Scooby-Doo Detective Book: How to Be a Super Sleuth (Your Cartoon Network)"
+        }
+    },
+    {
+        "id": "93969303-6123",
+        "score": "0.24",
+        "document": {
+            "author": "[Eli Stevens,Luca Antiga et al.]",
+            "title": "Deep Learning with PyTorch: Build train and tune neural networks using Python tools"
+        }
+    },
+    {
+        "id": "93969303-6453",
+        "score": "0.24",
+        "document": {
+            "author": "[Daniel A. Roberts,Sho Yaida et al.]",
+            "title": "The Principles of Deep Learning Theory: An Effective Theory Approach to Understanding Neural Networks"
+        }
+    },
+    {
+        "id": "93969303-6761",
+        "score": "0.24",
+        "document": {
+            "author": "[Antonio Gulli,Sujit Pal]",
+            "title": "Deep Learning with Keras: Implementing deep learning models and neural networks with the power of Python"
+        }
+    },
+    {
+        "id": "93969303-7662",
+        "score": "0.24",
+        "document": {
+            "author": "[Vishnu Subramanian]",
+            "title": "Deep Learning with PyTorch: A practical approach to building neural network models using PyTorch"
+        }
+    },
+    {
+        "id": "93969303-7814",
+        "score": "0.24",
+        "document": {
+            "author": "[Jay Dawani]",
+            "title": "Hands-On Mathematics for Deep Learning: Build a solid mathematical foundation for training efficient deep neural networks"
+        }
+    },
+    {
+        "id": "93969303-76945",
+        "score": "0.24",
+        "document": {
+            "author": "MARK YARNELL",
+            "title": "Your First Year in Network Marketing: Overcome Your Fears, Experience Success, and Achieve Your Dreams!"
+        }
+    },
+    {
+        "id": "93969303-198540",
+        "score": "0.24",
+        "document": {
+            "author": "Microsoft Corporation",
+            "title": "MCSA/MCSE Managing a Microsoft Windows 2000 Network Environment Readiness Review; Exam 70-218"
+        }
+    },
+    {
+        "id": "93969303-249824",
+        "score": "0.24",
+        "document": {
+            "author": "Harvey Mackay",
+            "title": "Dig Your Well Before You're Thirsty: The Only Networking Book You'll Ever Need"
+        }
+    },
+    {
+        "id": "93969303-459949",
+        "score": "0.24",
+        "document": {
+            "author": "Tim Brooks",
+            "title": "The Complete Directory to Prime Time Network and Cable TV Shows, Seventh Edition"
+        }
+    },
+    {
+        "id": "93969303-7074",
+        "score": "0.22",
+        "document": {
+            "author": "[Matthew Lamons,Rahul Kumar et al.]",
+            "title": "Python Deep Learning Projects: 9 projects demystifying neural network and deep learning models for building intelligent systems"
+        }
+    },
+    {
+        "id": "93969303-7110",
+        "score": "0.22",
+        "document": {
+            "author": "[Liangqu Long,Xiangming Zeng]",
+            "title": "Beginning Deep Learning with TensorFlow: Work with Keras MNIST Data Sets and Advanced Neural Networks"
+        }
+    },
+    {
+        "id": "93969303-7421",
+        "score": "0.22",
+        "document": {
+            "author": "[Giancarlo Zaccone,Md. Rezaul Karim]",
+            "title": "Deep Learning with TensorFlow: Explore neural networks and build intelligent systems with Python 2nd Edition"
+        }
+    },
+    {
+        "id": "93969303-246186",
+        "score": "0.22",
+        "document": {
+            "author": "Venus Andrecht",
+            "title": "MLM Magic : How an Ordinary Person Can Build an Extraordinary Network ing Business from Scratch"
+        }
+    },
+    {
+        "id": "93969303-349884",
+        "score": "0.22",
+        "document": {
+            "author": "Mohammed El-Nawawy",
+            "title": "Al Jazeera: How the Free Arab News Network Scooped the World and Changed the Middle East"
+        }
+    },
+    {
+        "id": "93969303-9801",
+        "score": "0.21",
+        "document": {
+            "author": "[John Galbraith]",
+            "title": "Network Programming in Python: The Basic: A Detailed Guide to Python 3 Network Programming and Management (English Edition)"
+        }
+    },
+    {
+        "id": "93969303-10229",
+        "score": "0.21",
+        "document": {
+            "author": "[Eric Chou,Michael Kennedy et al.]",
+            "title": "Mastering Python Networking: Your one-stop solution to using Python for network automation programmability and DevOps 3rd Edition"
+        }
+    },
+    {
+        "id": "93969303-339456",
+        "score": "0.21",
+        "document": {
+            "author": "Jayant Kadambi",
+            "title": "Gigabit Ethernet : Migrating to High-Bandwidth LANs (Prentice Hall Series in Computer Networking and Distributed Systems)"
+        }
+    },
+    {
+        "id": "93969303-6135",
+        "score": "0.20",
+        "document": {
+            "author": "[Magnus Ekman]",
+            "title": "Learning Deep Learning: Theory and Practice of Neural Networks Computer Vision Natural Language Processing and Transformers Using TensorFlow"
+        }
+    },
+    {
+        "id": "93969303-7599",
+        "score": "0.20",
+        "document": {
+            "author": "[Kathrin Melcher,Rosaria Silipo]",
+            "title": "Codeless Deep Learning with KNIME: Build train and deploy various deep neural network architectures using KNIME Analytics Platform"
+        }
+    },
+    {
+        "id": "93969303-259429",
+        "score": "0.20",
+        "document": {
+            "author": "Kornel Terplan",
+            "title": "Effective Management of Local Area Networks: Functions, Instruments, and People (Mcgraw Hill Series on Computer Communications)"
+        }
+    },
+    {
+        "id": "93969303-272339",
+        "score": "0.20",
+        "document": {
+            "author": "Wayne N. Kawamoto",
+            "title": "Build, Upgrade, and Repair Your PC Network on a Shoestring Budget: Maximum Connectivity at Minimum Cost"
+        }
+    },
+    {
+        "id": "93969303-6251",
+        "score": "0.19",
+        "document": {
+            "author": "[Sumit Ranjan,Dr. S. Senthamilarasu]",
+            "title": "Applied Deep Learning and Computer Vision for Self-Driving Cars: Build autonomous vehicles using deep neural networks and behavior-cloning techniques"
+        }
+    },
+    {
+        "id": "93969303-156828",
+        "score": "0.17",
+        "document": {
+            "author": "Leonard W. Clements",
+            "title": "Inside Network Marketing: An Expert's View into the Hidden Truths and Exploited Myths of America's Most Misunderstood Industry"
+        }
+    },
+    {
+        "id": "93969303-6786",
+        "score": "0.16",
+        "document": {
+            "author": "[Denis Rothman]",
+            "title": "Transformers for Natural Language Processing: Build innovative deep neural network architectures for NLP with Python PyTorch TensorFlow BERT RoBERTa and more"
+        }
+    },
+    {
+        "id": "93969303-9521",
+        "score": "0.16",
+        "document": {
+            "author": "[JosÃ© Manuel Ortega]",
+            "title": "Mastering Python for Networking and Security: Leverage the scripts and libraries of Python version 3.7 and beyond to overcome networking and security issues 2nd Edition"
+        }
+    },
+    {
+        "id": "93969303-10219",
+        "score": "0.15",
+        "document": {
+            "author": "[Florian Dedov]",
+            "title": "The Python Bible 7 in 1: Volumes One To Seven (Beginner Intermediate Data Science Machine Learning Finance Neural Networks Computer Vision)"
+        }
+    },
+    {
+        "id": "93969303-6715",
+        "score": "0.14",
+        "document": {
+            "author": "[Denis Rothman,Antonio Gulli]",
+            "title": "Transformers for Natural Language Processing: Build train and fine-tune deep neural network architectures for NLP with Python PyTorch TensorFlow BERT and GPT-3 2nd Edition"
+        }
+    },
+    {
+        "id": "93969303-375232",
+        "score": "0.13",
+        "document": {
+            "author": "Joel Fram",
+            "title": "I Heard It Through the Playground: 616 Best Tips from the Mommy and Daddy Network for Raising a Happy, Healthy Child from Birth to Age Five"
+        }
+    },
+    {
+        "id": "93969303-309987",
+        "score": "0.00",
+        "document": {
+            "author": "J. Cheryl Franklin",
+            "title": "Ghost Shadow: A Network-Consortium Novel"
+        }
+    }
+]

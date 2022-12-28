@@ -1,0 +1,1322 @@
+[
+    {
+        "id": "93789406-96596",
+        "score": "2.21",
+        "document": {
+            "author": "The O'Reilly Java Authors",
+            "title": "Java Enterprise Best Practices"
+        }
+    },
+    {
+        "id": "93789406-125816",
+        "score": "1.69",
+        "document": {
+            "author": "Karen Van der Zee",
+            "title": "Java nights"
+        }
+    },
+    {
+        "id": "93789406-171918",
+        "score": "1.69",
+        "document": {
+            "author": "John December",
+            "title": "Presenting Java"
+        }
+    },
+    {
+        "id": "93789406-219350",
+        "score": "1.69",
+        "document": {
+            "author": "Robert Eckstein",
+            "title": "Java Swing"
+        }
+    },
+    {
+        "id": "93789406-308448",
+        "score": "1.69",
+        "document": {
+            "author": "Daphne Jackson",
+            "title": "Java Nightmare"
+        }
+    },
+    {
+        "id": "93789406-314407",
+        "score": "1.69",
+        "document": {
+            "author": "Garniss Curtis",
+            "title": "Java Man"
+        }
+    },
+    {
+        "id": "93789406-475822",
+        "score": "1.69",
+        "document": {
+            "author": "Bruce Tate",
+            "title": "Bitter Java"
+        }
+    },
+    {
+        "id": "93789406-475826",
+        "score": "1.69",
+        "document": {
+            "author": "Ian F. Darwin",
+            "title": "Java Cookbook"
+        }
+    },
+    {
+        "id": "93789406-65468",
+        "score": "1.13",
+        "document": {
+            "author": "Pedro M. Cuenca Jimenez",
+            "title": "Programacion en Java"
+        }
+    },
+    {
+        "id": "93789406-107486",
+        "score": "1.13",
+        "document": {
+            "author": "Mark Murphy",
+            "title": "House of Java"
+        }
+    },
+    {
+        "id": "93789406-256130",
+        "score": "1.13",
+        "document": {
+            "author": "Edith Au",
+            "title": "Java Programming Basics"
+        }
+    },
+    {
+        "id": "93789406-265707",
+        "score": "1.13",
+        "document": {
+            "author": "Ivor Horton",
+            "title": "Beginning Java 2"
+        }
+    },
+    {
+        "id": "93789406-293608",
+        "score": "1.13",
+        "document": {
+            "author": "Jamie Jaworski",
+            "title": "Java Developer's Guide"
+        }
+    },
+    {
+        "id": "93789406-299189",
+        "score": "1.13",
+        "document": {
+            "author": "Joyce M. Farrell",
+            "title": "Java Programming: Comprehensive"
+        }
+    },
+    {
+        "id": "93789406-325620",
+        "score": "1.13",
+        "document": {
+            "author": "Brian  Jepson",
+            "title": "Java Database Programming"
+        }
+    },
+    {
+        "id": "93789406-415906",
+        "score": "1.13",
+        "document": {
+            "author": "William P. Mack",
+            "title": "South to Java"
+        }
+    },
+    {
+        "id": "93789406-453379",
+        "score": "1.13",
+        "document": {
+            "author": "Joyce Farrell",
+            "title": "Java Programming: Introductory"
+        }
+    },
+    {
+        "id": "93789406-492542",
+        "score": "1.13",
+        "document": {
+            "author": "Robin Drake",
+            "title": "Java Applet Powerpack (Java Applet Powerpack)"
+        }
+    },
+    {
+        "id": "93789406-561235",
+        "score": "1.13",
+        "document": {
+            "author": "Jack Shirazi",
+            "title": "Java Performance Tuning"
+        }
+    },
+    {
+        "id": "93789406-587628",
+        "score": "1.13",
+        "document": {
+            "author": "John Zukowski",
+            "title": "Mastering Java 2 (Mastering)"
+        }
+    },
+    {
+        "id": "93789406-96598",
+        "score": "0.85",
+        "document": {
+            "author": "George Reese",
+            "title": "Java Database Best Practices"
+        }
+    },
+    {
+        "id": "93789406-245272",
+        "score": "0.85",
+        "document": {
+            "author": "Alistair MacLean",
+            "title": "South by Java Head"
+        }
+    },
+    {
+        "id": "93789406-274803",
+        "score": "0.85",
+        "document": {
+            "author": "Patrick Niemeyer",
+            "title": "Learning Java (The Java Series)"
+        }
+    },
+    {
+        "id": "93789406-284444",
+        "score": "0.85",
+        "document": {
+            "author": "Donald J. Koosis",
+            "title": "Java Programming for Dummies"
+        }
+    },
+    {
+        "id": "93789406-299190",
+        "score": "0.85",
+        "document": {
+            "author": "Donald Koosis",
+            "title": "Java Programming for Dummies"
+        }
+    },
+    {
+        "id": "93789406-312159",
+        "score": "0.85",
+        "document": {
+            "author": "Andrea Steelman",
+            "title": "Murach's Beginning Java 2"
+        }
+    },
+    {
+        "id": "93789406-325625",
+        "score": "0.85",
+        "document": {
+            "author": "Andreas Vogel",
+            "title": "Java Programming With Corba"
+        }
+    },
+    {
+        "id": "93789406-400194",
+        "score": "0.85",
+        "document": {
+            "author": "Alistair MacLean",
+            "title": "South by Java Head"
+        }
+    },
+    {
+        "id": "93789406-401586",
+        "score": "0.85",
+        "document": {
+            "author": "Y. Daniel Liang",
+            "title": "Introduction to Java Programming"
+        }
+    },
+    {
+        "id": "93789406-455779",
+        "score": "0.85",
+        "document": {
+            "author": "Peter Coffee",
+            "title": "How to Program Java"
+        }
+    },
+    {
+        "id": "93789406-455786",
+        "score": "0.85",
+        "document": {
+            "author": "Nathan Gurewich",
+            "title": "Java Manual of Style"
+        }
+    },
+    {
+        "id": "93789406-492265",
+        "score": "0.85",
+        "document": {
+            "author": "Miles O'Neal",
+            "title": "Awt Programming for Java"
+        }
+    },
+    {
+        "id": "93789406-523399",
+        "score": "0.85",
+        "document": {
+            "author": "Scott Oaks",
+            "title": "Java Security (2nd Edition)"
+        }
+    },
+    {
+        "id": "93789406-533126",
+        "score": "0.85",
+        "document": {
+            "author": "Elliot B. Koffman",
+            "title": "Problem Solving With Java"
+        }
+    },
+    {
+        "id": "93789406-538320",
+        "score": "0.85",
+        "document": {
+            "author": "Nell B. Dale",
+            "title": "Data Structures In Java"
+        }
+    },
+    {
+        "id": "93789406-582483",
+        "score": "0.85",
+        "document": {
+            "author": "Brian Overland",
+            "title": "Java in Plain English"
+        }
+    },
+    {
+        "id": "93789406-217060",
+        "score": "0.68",
+        "document": {
+            "author": "Bruce Eckel",
+            "title": "Thinking in Java (2nd Edition)"
+        }
+    },
+    {
+        "id": "93789406-298396",
+        "score": "0.68",
+        "document": {
+            "author": "David Flanagan",
+            "title": "Java Examples in A Nutshell"
+        }
+    },
+    {
+        "id": "93789406-312158",
+        "score": "0.68",
+        "document": {
+            "author": "K. N. King",
+            "title": "Java Programming: From the Beginning"
+        }
+    },
+    {
+        "id": "93789406-345145",
+        "score": "0.68",
+        "document": {
+            "author": "Brett McLaughlin",
+            "title": "Java and XML (O'Reilly Java Tools)"
+        }
+    },
+    {
+        "id": "93789406-545454",
+        "score": "0.68",
+        "document": {
+            "author": "Maneesh Sahu",
+            "title": "Java Server Pages from Scratch (From Scratch)"
+        }
+    },
+    {
+        "id": "93789406-576351",
+        "score": "0.68",
+        "document": {
+            "author": "James Gosling",
+            "title": "The Java(TM) Language Specification"
+        }
+    },
+    {
+        "id": "93789406-582481",
+        "score": "0.68",
+        "document": {
+            "author": "Doug Bell",
+            "title": "Java for Students 1.2"
+        }
+    },
+    {
+        "id": "93789406-96586",
+        "score": "0.56",
+        "document": {
+            "author": "George Reese",
+            "title": "Database Programming with JDBC and Java"
+        }
+    },
+    {
+        "id": "93789406-146262",
+        "score": "0.56",
+        "document": {
+            "author": "Cay S. Horstmann",
+            "title": "Core Java 2 : Volume 1 Fundamentals"
+        }
+    },
+    {
+        "id": "93789406-181127",
+        "score": "0.56",
+        "document": {
+            "author": "Laura Lemay",
+            "title": "Teach Yourself Java in 21 Days (Teach Yourself (Teach Yourself))"
+        }
+    },
+    {
+        "id": "93789406-223041",
+        "score": "0.56",
+        "document": {
+            "author": "John A. Pew",
+            "title": "Instant Java (Java Series (Mountain View, Calif.).)"
+        }
+    },
+    {
+        "id": "93789406-269119",
+        "score": "0.56",
+        "document": {
+            "author": "Scott Oaks",
+            "title": "Jini in a Nutshell (Java S.)"
+        }
+    },
+    {
+        "id": "93789406-312301",
+        "score": "0.56",
+        "document": {
+            "author": "Duane K. Fields",
+            "title": "Web Development with Java Server Pages"
+        }
+    },
+    {
+        "id": "93789406-325610",
+        "score": "0.56",
+        "document": {
+            "author": "Cliff Berg",
+            "title": "Advanced Java Development for Enterprise Applications"
+        }
+    },
+    {
+        "id": "93789406-333864",
+        "score": "0.56",
+        "document": {
+            "author": "David Flanagan",
+            "title": "Java In a Nutshell Edition (Nutshell Handbook)"
+        }
+    },
+    {
+        "id": "93789406-342313",
+        "score": "0.56",
+        "document": {
+            "author": "Joe Weber",
+            "title": "Using Java 1.2 (Special Edition Using...)"
+        }
+    },
+    {
+        "id": "93789406-354990",
+        "score": "0.56",
+        "document": {
+            "author": "Peter Van Der Linden",
+            "title": "Just Java (Java Series (Mountain View, Calif.).)"
+        }
+    },
+    {
+        "id": "93789406-427349",
+        "score": "0.56",
+        "document": {
+            "author": "Adam Drozdek",
+            "title": "Data Structures and Algorithms in Java"
+        }
+    },
+    {
+        "id": "93789406-427353",
+        "score": "0.56",
+        "document": {
+            "author": "Cay C. Horstmann",
+            "title": "Computing Concepts With Java 2 Essentials"
+        }
+    },
+    {
+        "id": "93789406-433557",
+        "score": "0.56",
+        "document": {
+            "author": "David Czarnecki",
+            "title": "Java Internationalization (Java Series (O'Reilly &amp; Associates).)"
+        }
+    },
+    {
+        "id": "93789406-450959",
+        "score": "0.56",
+        "document": {
+            "author": "Peter Haggar",
+            "title": "Practical Java(TM) Programming Language Guide"
+        }
+    },
+    {
+        "id": "93789406-459849",
+        "score": "0.56",
+        "document": {
+            "author": "Patrick Chan",
+            "title": "The Java(TM) Developers Almanac 1999"
+        }
+    },
+    {
+        "id": "93789406-493504",
+        "score": "0.56",
+        "document": {
+            "author": "Daniel I. Joshi",
+            "title": "Official Netscape Java 1.1 Programming Book"
+        }
+    },
+    {
+        "id": "93789406-508374",
+        "score": "0.56",
+        "document": {
+            "author": "Gary Cornell",
+            "title": "Core Java (Java Series (Mountain View, Calif.).)"
+        }
+    },
+    {
+        "id": "93789406-518295",
+        "score": "0.56",
+        "document": {
+            "author": "Jamie Jaworski",
+            "title": "Java 1.1 Developer's Guide (Sams.Net Developer's Guide)"
+        }
+    },
+    {
+        "id": "93789406-533096",
+        "score": "0.56",
+        "document": {
+            "author": "D. Barnes",
+            "title": "Object-Oriented Programming with Java: An Introduction"
+        }
+    },
+    {
+        "id": "93789406-572330",
+        "score": "0.56",
+        "document": {
+            "author": "Roland Willms",
+            "title": "Java echt einfach. Das kinderleichte Computerbuch."
+        }
+    },
+    {
+        "id": "93789406-587655",
+        "score": "0.56",
+        "document": {
+            "author": "Jeff Friesen",
+            "title": "Java 2 by Example (Hayden/Que)"
+        }
+    },
+    {
+        "id": "93789406-6012",
+        "score": "0.48",
+        "document": {
+            "author": "[Mark Weiss]",
+            "title": "Data Structures and Algorithm Analysis in Java"
+        }
+    },
+    {
+        "id": "93789406-38869",
+        "score": "0.48",
+        "document": {
+            "author": "Ernest Hillen",
+            "title": "The Way of a Boy: A Memoir of Java"
+        }
+    },
+    {
+        "id": "93789406-143115",
+        "score": "0.48",
+        "document": {
+            "author": "Mary Campione",
+            "title": "Java¿ Tutorial, The: Object-Oriented Programming for the Internet"
+        }
+    },
+    {
+        "id": "93789406-293356",
+        "score": "0.48",
+        "document": {
+            "author": "John Lewis",
+            "title": "Java Software Solutions: Foundations of Program Design"
+        }
+    },
+    {
+        "id": "93789406-325614",
+        "score": "0.48",
+        "document": {
+            "author": "Cay S. Horstmann",
+            "title": "Core Java 1.1 Volume II Advanced Features"
+        }
+    },
+    {
+        "id": "93789406-325621",
+        "score": "0.48",
+        "document": {
+            "author": "Jerry R. Jackson",
+            "title": "Java by Example (Java Series (Mountain View, Calif.).)"
+        }
+    },
+    {
+        "id": "93789406-455784",
+        "score": "0.48",
+        "document": {
+            "author": "Ed Tittel",
+            "title": "Internet World¿ 60 Minute Guide to Java¿"
+        }
+    },
+    {
+        "id": "93789406-484655",
+        "score": "0.48",
+        "document": {
+            "author": "M. Main",
+            "title": "Data Structures &amp; Other Objects Using Java"
+        }
+    },
+    {
+        "id": "93789406-484656",
+        "score": "0.48",
+        "document": {
+            "author": "John Lewis",
+            "title": "Java Software Solutions : Foundations of Program Design"
+        }
+    },
+    {
+        "id": "93789406-491770",
+        "score": "0.48",
+        "document": {
+            "author": "Ivor Horton",
+            "title": "Beginning Java 2 SDK 1.4 Edition"
+        }
+    },
+    {
+        "id": "93789406-533105",
+        "score": "0.48",
+        "document": {
+            "author": "Y. Daniel Liang",
+            "title": "Rapid Java Application Development Using JBuilder 3."
+        }
+    },
+    {
+        "id": "93789406-589146",
+        "score": "0.48",
+        "document": {
+            "author": "Carlton Egremont III",
+            "title": "Mr. Bunny's Big Cup o' Java(TM)"
+        }
+    },
+    {
+        "id": "93789406-155471",
+        "score": "0.42",
+        "document": {
+            "author": "David Flanagan",
+            "title": "Java in a Nutshell, 2nd Edition (The Java Series)"
+        }
+    },
+    {
+        "id": "93789406-274835",
+        "score": "0.42",
+        "document": {
+            "author": "Kevin Lewis",
+            "title": "Creating Effective JavaHelp (Java Series (O'Reilly &amp; Associates).)"
+        }
+    },
+    {
+        "id": "93789406-392409",
+        "score": "0.42",
+        "document": {
+            "author": "Walter Savitch",
+            "title": "Java: An Introduction to Computer Science and Programming"
+        }
+    },
+    {
+        "id": "93789406-423427",
+        "score": "0.42",
+        "document": {
+            "author": "Rogers Cadenhead",
+            "title": "Teach Yourself Java 1.1 Programming in 24 Hours"
+        }
+    },
+    {
+        "id": "93789406-508590",
+        "score": "0.42",
+        "document": {
+            "author": "Cay S. Horstmann",
+            "title": "Core Java 2, Volume 1: Fundamentals (5th Edition)"
+        }
+    },
+    {
+        "id": "93789406-532075",
+        "score": "0.42",
+        "document": {
+            "author": "Laura Lemay",
+            "title": "Teach Yourself Java for Macintosh in 21 Days"
+        }
+    },
+    {
+        "id": "93789406-545135",
+        "score": "0.42",
+        "document": {
+            "author": "Philip Heller",
+            "title": "Complete Java 2 Certification Study Guide (3rd Edition)"
+        }
+    },
+    {
+        "id": "93789406-566611",
+        "score": "0.42",
+        "document": {
+            "author": "John Akerley",
+            "title": "Programming with VisualAge for Java 2 (2nd Edition)"
+        }
+    },
+    {
+        "id": "93789406-566615",
+        "score": "0.42",
+        "document": {
+            "author": "Dale R. Nilsson",
+            "title": "Developing JavaBeans Using VisualAge for Java, Version 2"
+        }
+    },
+    {
+        "id": "93789406-576373",
+        "score": "0.42",
+        "document": {
+            "author": "David Flanagan",
+            "title": "Java in a Nutshell, 2nd Edition (The Java Series)"
+        }
+    },
+    {
+        "id": "93789406-584086",
+        "score": "0.42",
+        "document": {
+            "author": "Cay Horstmann",
+            "title": "Core Java 2, Volume I: Fundamentals (6th Edition)"
+        }
+    },
+    {
+        "id": "93789406-200895",
+        "score": "0.38",
+        "document": {
+            "author": "Arthur Van Hoff",
+            "title": "Hooked on Java: Creating Hot Web Sites With Java Applets"
+        }
+    },
+    {
+        "id": "93789406-228074",
+        "score": "0.38",
+        "document": {
+            "author": "Laura Lemay",
+            "title": "Sams Teach Yourself Java 2 in 21 Days (Teach Yourself in 21 Days Series)"
+        }
+    },
+    {
+        "id": "93789406-294680",
+        "score": "0.38",
+        "document": {
+            "author": "John Lewis",
+            "title": "Java Software Solutions: Foundations of Program Design, Update JavaPlace"
+        }
+    },
+    {
+        "id": "93789406-344424",
+        "score": "0.38",
+        "document": {
+            "author": "Joachim Goll",
+            "title": "JAVA als erste Programmiersprache. - vom Einsteiger zum Profi"
+        }
+    },
+    {
+        "id": "93789406-450961",
+        "score": "0.38",
+        "document": {
+            "author": "Monica Pawlan",
+            "title": "Essentials of the Java Programming Language: A Hands-On Guide"
+        }
+    },
+    {
+        "id": "93789406-453365",
+        "score": "0.38",
+        "document": {
+            "author": "Noel Enete",
+            "title": "Java Jump Start: A Beginner's Guide to Internet Programming"
+        }
+    },
+    {
+        "id": "93789406-453373",
+        "score": "0.38",
+        "document": {
+            "author": "Xiaoping Jia",
+            "title": "Object-Oriented Software Development in Java: Principles, Patterns, and Frameworks"
+        }
+    },
+    {
+        "id": "93789406-453382",
+        "score": "0.38",
+        "document": {
+            "author": "Dennis Kafura",
+            "title": "Object-Oriented Software Design and Construction With Java: Web Enhanced"
+        }
+    },
+    {
+        "id": "93789406-475797",
+        "score": "0.38",
+        "document": {
+            "author": "William B. Brogden",
+            "title": "Java Developer's Guide to E-Commerce with XML and JSP"
+        }
+    },
+    {
+        "id": "93789406-475819",
+        "score": "0.38",
+        "document": {
+            "author": "Brett McLaughlin",
+            "title": "Java &amp; XML, 2nd Edition: Solutions to Real-World Problems"
+        }
+    },
+    {
+        "id": "93789406-517884",
+        "score": "0.38",
+        "document": {
+            "author": "Adrian Cockcroft",
+            "title": "Sun Performance and Tuning: Java and the Internet (2nd Edition)"
+        }
+    },
+    {
+        "id": "93789406-526410",
+        "score": "0.38",
+        "document": {
+            "author": "Laura Lemay",
+            "title": "Sams Teach Yourself Java 1.2 in 21 Days (Teach Yourself...)"
+        }
+    },
+    {
+        "id": "93789406-544742",
+        "score": "0.38",
+        "document": {
+            "author": "Mccarthy",
+            "title": "Reality Architecture: Building 3D Worlds In Java and VRML"
+        }
+    },
+    {
+        "id": "93789406-5825",
+        "score": "0.34",
+        "document": {
+            "author": "[Haksun Li PhD]",
+            "title": "Numerical Methods Using Java: For Data Science Analysis and Engineering"
+        }
+    },
+    {
+        "id": "93789406-99439",
+        "score": "0.34",
+        "document": {
+            "author": "David Flanagan",
+            "title": "Java in a Nutshell : A Desktop Quick Reference (Java Series) (3rd Edition)"
+        }
+    },
+    {
+        "id": "93789406-324203",
+        "score": "0.34",
+        "document": {
+            "author": "Jim O'Donnell",
+            "title": "Platinum Edition Using HTML 3.2, Java 1.1, and CGI"
+        }
+    },
+    {
+        "id": "93789406-412819",
+        "score": "0.34",
+        "document": {
+            "author": "Ivor Horton",
+            "title": "Beginning Java 2 - Jdk 1.3 Edition: Jdk 1.3 Edition (Programmer to Programmer)"
+        }
+    },
+    {
+        "id": "93789406-587616",
+        "score": "0.34",
+        "document": {
+            "author": "Laura Lemay",
+            "title": "Sams Teach Yourself Java 2 in 21 Days (2nd Edition)"
+        }
+    },
+    {
+        "id": "93789406-227649",
+        "score": "0.28",
+        "document": {
+            "author": "Daniel I. Joshi",
+            "title": "Migrating from Java 1.0 to Java 1.1: What Java Pros Need to Know about Java Now!"
+        }
+    },
+    {
+        "id": "93789406-313851",
+        "score": "0.28",
+        "document": {
+            "author": "Laura Lemay",
+            "title": "Sams Teach Yourself Java 2 Platform in 21 Days, Professional Reference Edition"
+        }
+    },
+    {
+        "id": "93789406-346806",
+        "score": "0.28",
+        "document": {
+            "author": "John Ramsay MacKinnon",
+            "title": "A Field Guide to the Birds of Borneo, Sumatra, Java, and Bali"
+        }
+    },
+    {
+        "id": "93789406-518070",
+        "score": "0.21",
+        "document": {
+            "author": "Seth White",
+            "title": "JDBC(TM) API Tutorial and Reference: Universal Data Access for the Java(TM) 2 Platform (2nd Edition)"
+        }
+    },
+    {
+        "id": "93789406-314406",
+        "score": "0.20",
+        "document": {
+            "author": "Roger Lewin",
+            "title": "Java Man : How Two Geologists' Dramatic Discoveries Changed Our Understanding of the Evolutionary Path to Modern Humans"
+        }
+    },
+    {
+        "id": "93789406-8785",
+        "score": "0.13",
+        "document": {
+            "author": "[ERICK THOMPSON]",
+            "title": "Programming for Data Science: 4 Books in 1. The Complete Beginners Guide you Canâ€™t Miss to Master the Era of the Data Economy using Python Java SQL Coding"
+        }
+    },
+    {
+        "id": "93789406-148575",
+        "score": "0.00",
+        "document": {
+            "author": "Javan",
+            "title": "Something to Someone"
+        }
+    },
+    {
+        "id": "93789406-216723",
+        "score": "0.00",
+        "document": {
+            "author": "Javan",
+            "title": "Footprints in the Mind"
+        }
+    },
+    {
+        "id": "93789406-216732",
+        "score": "0.00",
+        "document": {
+            "author": "Javan",
+            "title": "Meet Me Halfway"
+        }
+    },
+    {
+        "id": "93789406-216734",
+        "score": "0.00",
+        "document": {
+            "author": "Javan",
+            "title": "A Heart Full of Love"
+        }
+    },
+    {
+        "id": "93789406-6233",
+        "score": "0.00",
+        "document": {
+            "author": "[Shanqing Cai,Stan Bileschi et al.]",
+            "title": "Deep Learning with JavaScript: Neural networks in TensorFlow.js"
+        }
+    },
+    {
+        "id": "93789406-9474",
+        "score": "0.00",
+        "document": {
+            "author": "[Kyran Dale]",
+            "title": "Data Visualization with Python and JavaScript: Scrape Clean Explore and Transform Your Data"
+        }
+    },
+    {
+        "id": "93789406-9924",
+        "score": "0.00",
+        "document": {
+            "author": "[Code Quickly]",
+            "title": "Learn JavaScript Quickly: A Complete Beginnerâ€™s Guide to Learning JavaScript Even If Youâ€™re New to Programming (Crash Course With Hands-On Project)"
+        }
+    },
+    {
+        "id": "93789406-10173",
+        "score": "0.00",
+        "document": {
+            "author": "[Al Sweigart]",
+            "title": "The Recursive Book of Recursion: Ace the Coding Interview with Python and JavaScript"
+        }
+    },
+    {
+        "id": "93789406-143096",
+        "score": "0.00",
+        "document": {
+            "author": "Tim Ritchey",
+            "title": "Programming Javascript for Netscape 2.0"
+        }
+    },
+    {
+        "id": "93789406-143508",
+        "score": "0.00",
+        "document": {
+            "author": "Tom Negrino",
+            "title": "JavaScript for the World Wide Web: Visual QuickStart Guide (3rd Edition)"
+        }
+    },
+    {
+        "id": "93789406-167616",
+        "score": "0.00",
+        "document": {
+            "author": "Tom Negrino",
+            "title": "JavaScript for the World Wide Web: Visual QuickStart Guide, Second Edition"
+        }
+    },
+    {
+        "id": "93789406-217229",
+        "score": "0.00",
+        "document": {
+            "author": "Chris Charuhas",
+            "title": "HTML &amp; JavaScript for Visual Learners"
+        }
+    },
+    {
+        "id": "93789406-228072",
+        "score": "0.00",
+        "document": {
+            "author": "Kelly L.  Murdock",
+            "title": "JavaScript: Your visual blueprint for building dynamic Web pages"
+        }
+    },
+    {
+        "id": "93789406-241238",
+        "score": "0.00",
+        "document": {
+            "author": "Nick Heinle",
+            "title": "Designing With JavaScript : Creating Dynamic Web Pages (Web Review Studio Series)"
+        }
+    },
+    {
+        "id": "93789406-246327",
+        "score": "0.00",
+        "document": {
+            "author": "John  Pollock",
+            "title": "JavaScript: A Beginner's Guide"
+        }
+    },
+    {
+        "id": "93789406-280953",
+        "score": "0.00",
+        "document": {
+            "author": "Gabriel Torok",
+            "title": "Javascript Primer Plus: Enhancing Web Pages With the Javascript Programming Language"
+        }
+    },
+    {
+        "id": "93789406-301834",
+        "score": "0.00",
+        "document": {
+            "author": "Tom Negrino",
+            "title": "JavaScript for the World Wide Web: Visual QuickStart Guide (4th Edition)"
+        }
+    },
+    {
+        "id": "93789406-312285",
+        "score": "0.00",
+        "document": {
+            "author": "David Flanagan",
+            "title": "JavaScript: The Definitive Guide"
+        }
+    },
+    {
+        "id": "93789406-331747",
+        "score": "0.00",
+        "document": {
+            "author": "Timothy, T. Gottleber",
+            "title": "More Excellent HTML with an Introduction to JavaScript with Student CD-ROM"
+        }
+    },
+    {
+        "id": "93789406-360849",
+        "score": "0.00",
+        "document": {
+            "author": "Arman Danesh",
+            "title": "Javascript 1.1 Developer's Guide"
+        }
+    },
+    {
+        "id": "93789406-364823",
+        "score": "0.00",
+        "document": {
+            "author": "Danny Goodman",
+            "title": "Danny Goodman's Javascript Handbook"
+        }
+    },
+    {
+        "id": "93789406-364824",
+        "score": "0.00",
+        "document": {
+            "author": "James Jaworski",
+            "title": "Mastering Javascript (Mastering)"
+        }
+    },
+    {
+        "id": "93789406-387349",
+        "score": "0.00",
+        "document": {
+            "author": "David Flanagan",
+            "title": "JavaScript Pocket Reference"
+        }
+    },
+    {
+        "id": "93789406-387353",
+        "score": "0.00",
+        "document": {
+            "author": "David Flanagan",
+            "title": "JavaScript Definitive Guide"
+        }
+    },
+    {
+        "id": "93789406-392184",
+        "score": "0.00",
+        "document": {
+            "author": "Scott J. Walter",
+            "title": "The Complete Idiot's Guide to Javascript"
+        }
+    },
+    {
+        "id": "93789406-392214",
+        "score": "0.00",
+        "document": {
+            "author": "Arman Danesh",
+            "title": "Teach Yourself Javascript in a Week"
+        }
+    },
+    {
+        "id": "93789406-401574",
+        "score": "0.00",
+        "document": {
+            "author": "Emily A. Vander Veer",
+            "title": "JavaScript for Dummies"
+        }
+    },
+    {
+        "id": "93789406-406997",
+        "score": "0.00",
+        "document": {
+            "author": "Tom Negrino",
+            "title": "JavaScript for the World Wide Web: Visual QuickStart Guide, Fifth Edition"
+        }
+    },
+    {
+        "id": "93789406-427280",
+        "score": "0.00",
+        "document": {
+            "author": "Katie Kalata",
+            "title": "Internet Programming with VBScript and JavaScript"
+        }
+    },
+    {
+        "id": "93789406-427303",
+        "score": "0.00",
+        "document": {
+            "author": "Craig D.  Knuckles",
+            "title": "Introduction to Interactive Programming on the Internet: Using HTML and JavaScript"
+        }
+    },
+    {
+        "id": "93789406-427327",
+        "score": "0.00",
+        "document": {
+            "author": "Peter Kent",
+            "title": "Official Netscape JavaScript 1.2 Programmer's Reference"
+        }
+    },
+    {
+        "id": "93789406-435491",
+        "score": "0.00",
+        "document": {
+            "author": "Danny  Goodman",
+            "title": "JavaScript Examples Bible: The Essential Companion to JavaScript Bible"
+        }
+    },
+    {
+        "id": "93789406-435633",
+        "score": "0.00",
+        "document": {
+            "author": "Danny  Goodman",
+            "title": "JavaScript Bible, 4th Edition"
+        }
+    },
+    {
+        "id": "93789406-451128",
+        "score": "0.00",
+        "document": {
+            "author": "Ted Gesing",
+            "title": "Javascript for the World Wide Web (Visual Quickstart Guide Series)"
+        }
+    },
+    {
+        "id": "93789406-455730",
+        "score": "0.00",
+        "document": {
+            "author": "Peter Kent",
+            "title": "Official Netscape Javascript Book: The Nonprogrammer's Guide to Interactive Web Pages"
+        }
+    },
+    {
+        "id": "93789406-477786",
+        "score": "0.00",
+        "document": {
+            "author": "Vivian Neou",
+            "title": "HTML 4.0 CD with JavaScript"
+        }
+    },
+    {
+        "id": "93789406-479703",
+        "score": "0.00",
+        "document": {
+            "author": "Makiko Itoh",
+            "title": "JavaScript + Css + DOM Magic (With CD-ROM)"
+        }
+    },
+    {
+        "id": "93789406-494514",
+        "score": "0.00",
+        "document": {
+            "author": "Emily A. Vander  Veer",
+            "title": "JavaScript for Dummies Quick Reference"
+        }
+    },
+    {
+        "id": "93789406-507466",
+        "score": "0.00",
+        "document": {
+            "author": "Danny  Goodman",
+            "title": "JavaScript Bible, Gold Edition"
+        }
+    },
+    {
+        "id": "93789406-524473",
+        "score": "0.00",
+        "document": {
+            "author": "Joe Burns",
+            "title": "JavaScript Goodies"
+        }
+    },
+    {
+        "id": "93789406-526048",
+        "score": "0.00",
+        "document": {
+            "author": "David Flanagan",
+            "title": "JavaScript : The Definitive Guide, 2nd Edition (Nutshell Handbook)"
+        }
+    },
+    {
+        "id": "93789406-526078",
+        "score": "0.00",
+        "document": {
+            "author": "Peter Kent",
+            "title": "Official Netscape Javascript 1.2 Book: The Nonprogrammer's Guide to Creating Interactive Web Pages"
+        }
+    },
+    {
+        "id": "93789406-546851",
+        "score": "0.00",
+        "document": {
+            "author": "Emily A. Vander  Veer",
+            "title": "JavaScript for Dummies"
+        }
+    },
+    {
+        "id": "93789406-562400",
+        "score": "0.00",
+        "document": {
+            "author": "Arman  Danesh",
+            "title": "JavaScript in 10 Steps or Less"
+        }
+    },
+    {
+        "id": "93789406-590783",
+        "score": "0.00",
+        "document": {
+            "author": "Danny Goodman",
+            "title": "JavaScript Bible"
+        }
+    },
+    {
+        "id": "93789406-312267",
+        "score": "0.00",
+        "document": {
+            "author": "Paul  Whitehead",
+            "title": "JavaServer Pages: Your Visual Blueprint to Designing Dynamic Content with JSP"
+        }
+    },
+    {
+        "id": "93789406-312300",
+        "score": "0.00",
+        "document": {
+            "author": "Mac Rinehart",
+            "title": "Javaserver Pages for Dummies"
+        }
+    },
+    {
+        "id": "93789406-572031",
+        "score": "0.00",
+        "document": {
+            "author": "Marty Hall",
+            "title": "Core Servlets and JavaServer Pages (JSP)"
+        }
+    },
+    {
+        "id": "93789406-109153",
+        "score": "0.00",
+        "document": {
+            "author": "Raden Adjeng Kartini",
+            "title": "Letters Of A Javanese Princess"
+        }
+    },
+    {
+        "id": "93789406-309653",
+        "score": "0.00",
+        "document": {
+            "author": "Katherine Kurtz",
+            "title": "King Javan's Year (Heirs of Saint Camber, Vol 2)"
+        }
+    },
+    {
+        "id": "93789406-549588",
+        "score": "0.00",
+        "document": {
+            "author": "Katherine Kurtz",
+            "title": "King Javan's Year (The Heirs of Saint Camber, Vol 2)"
+        }
+    },
+    {
+        "id": "93789406-354991",
+        "score": "0.00",
+        "document": {
+            "author": "Michael Morrison",
+            "title": "Presenting Javabeans"
+        }
+    },
+    {
+        "id": "93789406-374602",
+        "score": "0.00",
+        "document": {
+            "author": "Don Doherty",
+            "title": "Teach Yourself Javabeans in 21 Days (Teach Yourself (Teach Yourself))"
+        }
+    },
+    {
+        "id": "93789406-560854",
+        "score": "0.00",
+        "document": {
+            "author": "Richard Monson-Haefel",
+            "title": "Enterprise JavaBeans"
+        }
+    }
+]

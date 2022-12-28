@@ -1,0 +1,570 @@
+[
+    {
+        "id": "94554465-284790",
+        "score": "1.79",
+        "document": {
+            "author": "S. Andrew Swann",
+            "title": "Zimmerman's Algorithm"
+        }
+    },
+    {
+        "id": "94554465-306764",
+        "score": "1.19",
+        "document": {
+            "author": "Robert Sedgewick",
+            "title": "Algorithms in C++"
+        }
+    },
+    {
+        "id": "94554465-334317",
+        "score": "1.19",
+        "document": {
+            "author": "Ellis Horowitz",
+            "title": "Computer Algorithms, Pseudocode"
+        }
+    },
+    {
+        "id": "94554465-484657",
+        "score": "1.19",
+        "document": {
+            "author": "Thomas H. Cormen",
+            "title": "Introduction to Algorithms"
+        }
+    },
+    {
+        "id": "94554465-9930",
+        "score": "0.90",
+        "document": {
+            "author": "[Clinton Sheppard]",
+            "title": "Genetic Algorithms with Python"
+        }
+    },
+    {
+        "id": "94554465-4761",
+        "score": "0.72",
+        "document": {
+            "author": "[Marcello La Rocca]",
+            "title": "Advanced Algorithms and Data Structures"
+        }
+    },
+    {
+        "id": "94554465-334398",
+        "score": "0.72",
+        "document": {
+            "author": "Thomas H. Cormen",
+            "title": "Introduction to Algorithms, Second Edition"
+        }
+    },
+    {
+        "id": "94554465-5932",
+        "score": "0.60",
+        "document": {
+            "author": "[Mark Weiss]",
+            "title": "Data Structures & Algorithm Analysis in C++"
+        }
+    },
+    {
+        "id": "94554465-6066",
+        "score": "0.60",
+        "document": {
+            "author": "[Edward Raff]",
+            "title": "Inside Deep Learning: Math Algorithms Models"
+        }
+    },
+    {
+        "id": "94554465-9625",
+        "score": "0.60",
+        "document": {
+            "author": "[Roberto Tamassia,Michael H. Goldwasser et al.]",
+            "title": "Data Structures and Algorithms in Python"
+        }
+    },
+    {
+        "id": "94554465-287917",
+        "score": "0.60",
+        "document": {
+            "author": "Robert Sedgewick",
+            "title": "Algorithms (Addison-Wesley series in computer science)"
+        }
+    },
+    {
+        "id": "94554465-427349",
+        "score": "0.60",
+        "document": {
+            "author": "Adam Drozdek",
+            "title": "Data Structures and Algorithms in Java"
+        }
+    },
+    {
+        "id": "94554465-1145",
+        "score": "0.51",
+        "document": {
+            "author": "[Christopher Hian-ann Ting]",
+            "title": "Algorithmic Finance: A Companion To Data Science"
+        }
+    },
+    {
+        "id": "94554465-2538",
+        "score": "0.51",
+        "document": {
+            "author": "[Dzejla Medjedovic,Emin Tahirovic et al.]",
+            "title": "Algorithms and Data Structures for Massive Datasets"
+        }
+    },
+    {
+        "id": "94554465-6012",
+        "score": "0.51",
+        "document": {
+            "author": "[Mark Weiss]",
+            "title": "Data Structures and Algorithm Analysis in Java"
+        }
+    },
+    {
+        "id": "94554465-8243",
+        "score": "0.51",
+        "document": {
+            "author": "[Shai Shalev-Shwartz,Shai Ben-David]",
+            "title": "Understanding Machine Learning: From Theory to Algorithms"
+        }
+    },
+    {
+        "id": "94554465-8776",
+        "score": "0.51",
+        "document": {
+            "author": "[Jeremy Watt,Reza Borhani et al.]",
+            "title": "Machine Learning Refined: Foundations Algorithms and Applications"
+        }
+    },
+    {
+        "id": "94554465-10085",
+        "score": "0.51",
+        "document": {
+            "author": "[Dr. RACHANA KAMBLE,AYUSHI GODIYA et al.]",
+            "title": "DATA STRUCTURE AND ALGORITHMS: BUILD IN PYTHON"
+        }
+    },
+    {
+        "id": "94554465-457643",
+        "score": "0.51",
+        "document": {
+            "author": "Ellis Horowitz",
+            "title": "Fundamentals of computer algorithms (Computer software engineering series)"
+        }
+    },
+    {
+        "id": "94554465-506285",
+        "score": "0.51",
+        "document": {
+            "author": "Selim G. Akl",
+            "title": "The Design and Analysis of Parallel Algorithms"
+        }
+    },
+    {
+        "id": "94554465-6782",
+        "score": "0.45",
+        "document": {
+            "author": "[Michael Lanham]",
+            "title": "Evolutionary Deep Learning: Genetic algorithms and neural networks"
+        }
+    },
+    {
+        "id": "94554465-7267",
+        "score": "0.45",
+        "document": {
+            "author": "[Richard Szeliski]",
+            "title": "Computer Vision: Algorithms and Applications (Texts in Computer Science)"
+        }
+    },
+    {
+        "id": "94554465-8660",
+        "score": "0.45",
+        "document": {
+            "author": "[Mohammed J. Zaki,Wagner Meira Jr]",
+            "title": "Data Mining and Machine Learning: Fundamental Concepts and Algorithms"
+        }
+    },
+    {
+        "id": "94554465-467830",
+        "score": "0.45",
+        "document": {
+            "author": "John Shore",
+            "title": "Sachertorte Algorithm and Other Antidotes to Computer Anxiety"
+        }
+    },
+    {
+        "id": "94554465-6195",
+        "score": "0.40",
+        "document": {
+            "author": "[Nithin Buduma,Joe Papa et al.]",
+            "title": "Fundamentals of Deep Learning: Designing Next-Generation Machine Intelligence Algorithms"
+        }
+    },
+    {
+        "id": "94554465-8626",
+        "score": "0.40",
+        "document": {
+            "author": "[Clarence Chio,David Freeman]",
+            "title": "Machine Learning and Security: Protecting Systems with Data and Algorithms"
+        }
+    },
+    {
+        "id": "94554465-9851",
+        "score": "0.40",
+        "document": {
+            "author": "[Chris Conlan]",
+            "title": "Algorithmic Trading with Python: Quantitative Methods and Strategy Development"
+        }
+    },
+    {
+        "id": "94554465-10142",
+        "score": "0.40",
+        "document": {
+            "author": "[Yves Hilpisch]",
+            "title": "Python for Algorithmic Trading: From Idea to Cloud Deployment"
+        }
+    },
+    {
+        "id": "94554465-361874",
+        "score": "0.40",
+        "document": {
+            "author": "G. J. Chaitin",
+            "title": "Algorithmic Information Theory (Cambridge Tracts in Theoretical Computer Science)"
+        }
+    },
+    {
+        "id": "94554465-505693",
+        "score": "0.40",
+        "document": {
+            "author": "Thomas H. Cormen",
+            "title": "Introduction to Algorithms (MIT Electrical Engineering and Computer Science)"
+        }
+    },
+    {
+        "id": "94554465-2057",
+        "score": "0.36",
+        "document": {
+            "author": "[Cory Althoff]",
+            "title": "The Self-Taught Computer Scientist: The Beginners Guide to Data Structures & Algorithms"
+        }
+    },
+    {
+        "id": "94554465-8735",
+        "score": "0.36",
+        "document": {
+            "author": "",
+            "title": "Machine Learning: An Algorithmic Perspective (Chapman & Hall/CRC Machine Learning & Pattern Recognition)"
+        }
+    },
+    {
+        "id": "94554465-8859",
+        "score": "0.36",
+        "document": {
+            "author": "[Abdullah Karasan]",
+            "title": "Machine Learning for Financial Risk Management with Python: Algorithms for Modeling Risk"
+        }
+    },
+    {
+        "id": "94554465-10011",
+        "score": "0.36",
+        "document": {
+            "author": "[Bradford Tuckfield]",
+            "title": "Dive Into Algorithms: A Pythonic Adventure for the Intrepid Beginner"
+        }
+    },
+    {
+        "id": "94554465-334406",
+        "score": "0.36",
+        "document": {
+            "author": "Donald E. Knuth",
+            "title": "Art of Computer Programming, Volume 1: Fundamental Algorithms (3rd Edition)"
+        }
+    },
+    {
+        "id": "94554465-580918",
+        "score": "0.36",
+        "document": {
+            "author": "Donald E. Knuth",
+            "title": "Art of Computer Programming, Volume 2: Seminumerical Algorithms (3rd Edition)"
+        }
+    },
+    {
+        "id": "94554465-9964",
+        "score": "0.33",
+        "document": {
+            "author": "[Bradley N. Miller,David L. Ranum]",
+            "title": "Problem Solving with Algorithms and Data Structures Using Python SECOND EDITION"
+        }
+    },
+    {
+        "id": "94554465-313785",
+        "score": "0.33",
+        "document": {
+            "author": "Donald E. Knuth",
+            "title": "The Art of Computer Programming, Volume 2: Seminumerical Algorithms (2nd Edition)"
+        }
+    },
+    {
+        "id": "94554465-334360",
+        "score": "0.33",
+        "document": {
+            "author": "Alfred V. Aho",
+            "title": "Data Structures and Algorithms (Addison-Wesley Series in Computer Science and Information Pr)"
+        }
+    },
+    {
+        "id": "94554465-334372",
+        "score": "0.33",
+        "document": {
+            "author": "Bruce  Schneier",
+            "title": "Applied Cryptography: Protocols, Algorithms, and Source Code in C, Second Edition"
+        }
+    },
+    {
+        "id": "94554465-433277",
+        "score": "0.33",
+        "document": {
+            "author": "Bruce  Schneier",
+            "title": "Applied Cryptography: Protocols, Algorithms, and Source Code in C, 2nd Edition"
+        }
+    },
+    {
+        "id": "94554465-499346",
+        "score": "0.33",
+        "document": {
+            "author": "David Berlinski",
+            "title": "The Advent of the Algorithm: The 300-Year Journey from an Idea to the Computer"
+        }
+    },
+    {
+        "id": "94554465-7022",
+        "score": "0.30",
+        "document": {
+            "author": "[Bert Moons,Daniel Bankman et al.]",
+            "title": "Embedded Deep Learning: Algorithms Architectures and Circuits for Always-on Neural Network Processing"
+        }
+    },
+    {
+        "id": "94554465-8740",
+        "score": "0.30",
+        "document": {
+            "author": "[Drew Conway,John Myles White]",
+            "title": "Machine Learning for Hackers: Case Studies and Algorithms to Get You Started"
+        }
+    },
+    {
+        "id": "94554465-9037",
+        "score": "0.30",
+        "document": {
+            "author": "[Dr Ruchi Doshi,Dr Kamal Kant Hiran et al.]",
+            "title": "Machine Learning: Master Supervised and Unsupervised Learning Algorithms with Real Examples (English Edition)"
+        }
+    },
+    {
+        "id": "94554465-3158",
+        "score": "0.28",
+        "document": {
+            "author": "[Jun Chen,Edward P K Tsang]",
+            "title": "Detecting Regime Change in Computational Finance: Data Science Machine Learning and Algorithmic Trading"
+        }
+    },
+    {
+        "id": "94554465-8871",
+        "score": "0.28",
+        "document": {
+            "author": "[Mahmoud Parsian]",
+            "title": "Data Algorithms with Spark: Recipes and Design Patterns for Scaling Up using PySpark"
+        }
+    },
+    {
+        "id": "94554465-8876",
+        "score": "0.28",
+        "document": {
+            "author": "[Claudio Stamile,Aldo Marzullo et al.]",
+            "title": "Graph Machine Learning: Take graph data to the next level applying machine learning techniques and algorithms"
+        }
+    },
+    {
+        "id": "94554465-9674",
+        "score": "0.28",
+        "document": {
+            "author": "[yang hu]",
+            "title": "Easy Learning Python 3: Python for Beginners Guide (Easy Learning Python and design patterns and data structures and algorithms)"
+        }
+    },
+    {
+        "id": "94554465-1736",
+        "score": "0.26",
+        "document": {
+            "author": "",
+            "title": "Introduction to Data Science: Data Analysis and Prediction Algorithms with R (Chapman & Hall/CRC Data Science Series)"
+        }
+    },
+    {
+        "id": "94554465-4921",
+        "score": "0.26",
+        "document": {
+            "author": "",
+            "title": "Data Structures and Algorithm Analysis in C++ Third Edition (Dover Books on Computer Science)"
+        }
+    },
+    {
+        "id": "94554465-8569",
+        "score": "0.26",
+        "document": {
+            "author": "[Jeff Prosise]",
+            "title": "Applied Machine Learning and AI for Engineers: Solve Business Problems That Cant Be Solved Algorithmically"
+        }
+    },
+    {
+        "id": "94554465-2908",
+        "score": "0.24",
+        "document": {
+            "author": "[Chandra Sekhar Nayak,Rivu Chakraborty]",
+            "title": "Hands-On Data Structures and Algorithms with Kotlin: Level up your programming skills understanding how Kotlins data structure works"
+        }
+    },
+    {
+        "id": "94554465-6765",
+        "score": "0.24",
+        "document": {
+            "author": "[Eyal Wirsansky]",
+            "title": "Hands-On Genetic Algorithms with Python: Applying genetic algorithms to solve real-world deep learning and artificial intelligence problems"
+        }
+    },
+    {
+        "id": "94554465-9142",
+        "score": "0.24",
+        "document": {
+            "author": "[Aristides S Bouras]",
+            "title": "Python and Algorithmic Thinking for the Complete Beginner (2nd Edition): Learn to Think Like a Programmer"
+        }
+    },
+    {
+        "id": "94554465-9850",
+        "score": "0.24",
+        "document": {
+            "author": "[yang hu]",
+            "title": "Algorithms Python (2 Edition): Easy to learn algorithms through full-color diagrams. (Easy Learning Python and design patterns and data structures and algorithms)"
+        }
+    },
+    {
+        "id": "94554465-5729",
+        "score": "0.22",
+        "document": {
+            "author": "[Jay Wengrow]",
+            "title": "A Common-Sense Guide to Data Structures and Algorithms Second Edition: Level Up Your Core Programming Skills"
+        }
+    },
+    {
+        "id": "94554465-8164",
+        "score": "0.22",
+        "document": {
+            "author": "[John D. Kelleher,Brian Mac Namee et al.]",
+            "title": "Fundamentals of Machine Learning for Predictive Data Analytics second edition: Algorithms Worked Examples and Case Studies"
+        }
+    },
+    {
+        "id": "94554465-8642",
+        "score": "0.22",
+        "document": {
+            "author": "[Hyatt Saleh]",
+            "title": "The Machine Learning Workshop: Get ready to develop your own high-performance machine learning algorithms with scikit-learn 2nd Edition"
+        }
+    },
+    {
+        "id": "94554465-7163",
+        "score": "0.21",
+        "document": {
+            "author": "[David Millan Escriva,Prateek Joshi et al.]",
+            "title": "Building Computer Vision Projects with OpenCV 4 and C++: Implement complex computer vision algorithms and explore deep learning and face detection"
+        }
+    },
+    {
+        "id": "94554465-8348",
+        "score": "0.21",
+        "document": {
+            "author": "[Hoss Belyadi,Alireza Haghighat]",
+            "title": "Machine Learning Guide for Oil and Gas Using Python: A Step--Step Breakdown with Data Algorithms Codes and Applications"
+        }
+    },
+    {
+        "id": "94554465-8596",
+        "score": "0.21",
+        "document": {
+            "author": "[John D. Kelleher,Brian Mac Namee et al.]",
+            "title": "Fundamentals of Machine Learning for Predictive Data Analytics: Algorithms Worked Examples and Case Studies (The MIT Press)"
+        }
+    },
+    {
+        "id": "94554465-9655",
+        "score": "0.21",
+        "document": {
+            "author": "[yang hu]",
+            "title": "Full-Color Illustration Data Structrues & Algorithms Python: Easy and Interesting to Learn Through Full-Color Diagrams (Python Foundation & Design Patterns & Data Structures & Algorithms)"
+        }
+    },
+    {
+        "id": "94554465-10073",
+        "score": "0.21",
+        "document": {
+            "author": "",
+            "title": "Practical Discrete Mathematics: Discover math principles that fuel algorithms for computer science and machine learning with Python"
+        }
+    },
+    {
+        "id": "94554465-2208",
+        "score": "0.19",
+        "document": {
+            "author": "[Dr. Basant Agarwal]",
+            "title": "Hands-On Data Structures and Algorithms with Python: Store manipulate and access data effectively and boost the performance of your applications 3rd Edition"
+        }
+    },
+    {
+        "id": "94554465-9494",
+        "score": "0.19",
+        "document": {
+            "author": "[Laurent Bernut,Michael Covel]",
+            "title": "Algorithmic Short Selling with Python: Refine your algorithmic trading edge consistently generate investment ideas and build a robust long/short product"
+        }
+    },
+    {
+        "id": "94554465-7590",
+        "score": "0.18",
+        "document": {
+            "author": "[Rishal Hurbans]",
+            "title": "Grokking Artificial Intelligence Algorithms: Understand and apply the core algorithms of deep learning and artificial intelligence in this friendly illustrated guide including exercises and examples"
+        }
+    },
+    {
+        "id": "94554465-8679",
+        "score": "0.18",
+        "document": {
+            "author": "[Gourav Gupta,Dr. Manish Gupta et al.]",
+            "title": "Practical Machine Learning with Spark: Uncover Apache Sparkâ€™s Scalable Performance with High-Quality Algorithms Across NLP Computer Vision and ML(English Edition)"
+        }
+    },
+    {
+        "id": "94554465-2886",
+        "score": "0.17",
+        "document": {
+            "author": "[Arthur Zhang]",
+            "title": "Data Analytics: Practical Guide to Leveraging the Power of Algorithms Data Science Data Mining Statistics Big Data and Predictive Analysis to Improve Business Work and Life"
+        }
+    },
+    {
+        "id": "94554465-7135",
+        "score": "0.17",
+        "document": {
+            "author": "[Stefan Jansen]",
+            "title": "Machine Learning for Algorithmic Trading: Predictive models to extract signals from market and alternative data for systematic trading strategies with Python 2nd Edition"
+        }
+    },
+    {
+        "id": "94554465-6747",
+        "score": "0.16",
+        "document": {
+            "author": "[Ben Auffarth]",
+            "title": "Artificial Intelligence with Python Cookbook: Proven recipes for applying AI algorithms and deep learning techniques using TensorFlow 2.x and PyTorch 1.6"
+        }
+    }
+]

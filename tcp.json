@@ -1,0 +1,194 @@
+[
+    {
+        "id": "94148873-387255",
+        "score": "1.35",
+        "document": {
+            "author": "Matthew Flint Arnett",
+            "title": "Inside Tcp/Ip"
+        }
+    },
+    {
+        "id": "94148873-508389",
+        "score": "1.35",
+        "document": {
+            "author": "Paul Simoneau",
+            "title": "Hands-On TCP/IP"
+        }
+    },
+    {
+        "id": "94148873-155476",
+        "score": "1.01",
+        "document": {
+            "author": "Craig Hunt",
+            "title": "TCP/IP Network Administration"
+        }
+    },
+    {
+        "id": "94148873-313712",
+        "score": "1.01",
+        "document": {
+            "author": "Craig Hunt",
+            "title": "TCP/IP Network Administration"
+        }
+    },
+    {
+        "id": "94148873-429975",
+        "score": "1.01",
+        "document": {
+            "author": "Candace Leiden",
+            "title": "TCP/IP for Dummies"
+        }
+    },
+    {
+        "id": "94148873-387257",
+        "score": "0.81",
+        "document": {
+            "author": "Todd Lammle",
+            "title": "MCSE : TCP/IP Study Guide"
+        }
+    },
+    {
+        "id": "94148873-508387",
+        "score": "0.81",
+        "document": {
+            "author": "Drew Heywood",
+            "title": "Networking With Microsoft Tcp/Ip"
+        }
+    },
+    {
+        "id": "94148873-324154",
+        "score": "0.68",
+        "document": {
+            "author": "Candace  Leiden",
+            "title": "TCP/IP for Dummies, Fifth Edition"
+        }
+    },
+    {
+        "id": "94148873-334373",
+        "score": "0.58",
+        "document": {
+            "author": "Gary R. Wright",
+            "title": "The Implementation (TCP/IP Illustrated, Volume 2)"
+        }
+    },
+    {
+        "id": "94148873-334405",
+        "score": "0.58",
+        "document": {
+            "author": "W. Richard Stevens",
+            "title": "The Protocols (TCP/IP Illustrated, Volume 1)"
+        }
+    },
+    {
+        "id": "94148873-382551",
+        "score": "0.58",
+        "document": {
+            "author": "Craig Hunt",
+            "title": "TCP/IP Network Administration (3rd Edition; O'Reilly Networking)"
+        }
+    },
+    {
+        "id": "94148873-387268",
+        "score": "0.58",
+        "document": {
+            "author": "Martin Arick",
+            "title": "The Essential Guide to Tcp/Ip Commands"
+        }
+    },
+    {
+        "id": "94148873-557323",
+        "score": "0.58",
+        "document": {
+            "author": "Tim Parker",
+            "title": "Teach Yourself TCP/IP in 14 Days"
+        }
+    },
+    {
+        "id": "94148873-334351",
+        "score": "0.51",
+        "document": {
+            "author": "Jeff Doyle",
+            "title": "Routing TCP/IP, Volume II (CCIE Professional Development)"
+        }
+    },
+    {
+        "id": "94148873-334356",
+        "score": "0.51",
+        "document": {
+            "author": "Jeff Doyle",
+            "title": "Routing TCP/IP Volume I (CCIE Professional Development)"
+        }
+    },
+    {
+        "id": "94148873-146224",
+        "score": "0.45",
+        "document": {
+            "author": "Craig Hunt",
+            "title": "Networking Personal Computers with TCP/IP: Building TCP/IP Networks (O'Reilly Nutshell)"
+        }
+    },
+    {
+        "id": "94148873-204094",
+        "score": "0.45",
+        "document": {
+            "author": "Drew Heywood",
+            "title": "Networking with Microsoft TCP/IP Certified Administrator's Resource Edition"
+        }
+    },
+    {
+        "id": "94148873-360884",
+        "score": "0.45",
+        "document": {
+            "author": "Michael Santifaller",
+            "title": "TCP/IP and NFS: Internetworking in a UNIX Environment"
+        }
+    },
+    {
+        "id": "94148873-512901",
+        "score": "0.45",
+        "document": {
+            "author": "Drew Heywood",
+            "title": "Networking with Microsoft TCP/IP Certified Administrator's Resource Edition"
+        }
+    },
+    {
+        "id": "94148873-408800",
+        "score": "0.41",
+        "document": {
+            "author": "Stephen A.  Thomas",
+            "title": "IPng and the TCP/IP Protocols: Implementing the Next Generation Internet"
+        }
+    },
+    {
+        "id": "94148873-574242",
+        "score": "0.34",
+        "document": {
+            "author": "Douglas E. Comer",
+            "title": "Internetworking with TCP/IP Vol.1: Principles, Protocols, and Architecture (4th Edition)"
+        }
+    },
+    {
+        "id": "94148873-324185",
+        "score": "0.31",
+        "document": {
+            "author": "Todd Lammle",
+            "title": "MCSE: TCP IP For NT Server 4 Study Guide Exam 70-059 (With CD-ROMs)"
+        }
+    },
+    {
+        "id": "94148873-556486",
+        "score": "0.31",
+        "document": {
+            "author": "Michael A. Pastore",
+            "title": "McSe Rapid Review for Tcp/Ip Microsoft Windows Nt 4.0: Study Guides (Rapid Review Study Guides)"
+        }
+    },
+    {
+        "id": "94148873-313845",
+        "score": "0.27",
+        "document": {
+            "author": "Douglas E. Comer",
+            "title": "Internetworking with TCP/IP Vol. II: ANSI C Version: Design, Implementation, and Internals (3rd Edition)"
+        }
+    }
+]

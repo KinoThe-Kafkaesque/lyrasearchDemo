@@ -49,7 +49,8 @@ const related = async (term) => {
       const result = await (await find(term)).map((book) => book.document);
       final.push(result);
     }
-    return final;
+    // build a set from final and return it
+    return [...new Set(final)];
   }
   catch (error) {
     console.error(error);

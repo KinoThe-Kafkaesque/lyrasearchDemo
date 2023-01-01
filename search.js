@@ -3,7 +3,6 @@ import data from './raw_data/json/output.json' assert { type: "json" };
 const database = data
 // import fs from 'fs'
 import relatedTerms from "./related.js";
-import { json } from "stream/consumers";
 const query = "protocol";
 const db = await create({
   schema: {
@@ -45,6 +44,7 @@ const related = async (term) => {
   try {
     let final = [];
     const terms = await relatedTerms(term);
+    console.log(terms);
     for (const term of terms) {
       const result = await (await find(term)).map((book) => book.document);
       final.push(result);
@@ -57,4 +57,4 @@ const related = async (term) => {
   }
 }
 
-console.log(await related(query));
+await related(query);

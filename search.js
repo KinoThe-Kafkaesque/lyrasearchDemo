@@ -1,12 +1,16 @@
 import { create, insert, remove, search } from "@lyrasearch/lyra";
-import data from './books.js'
+import data from './raw_data/json/output.json' assert { type: "json" };
 const database = data
-import fs from 'fs'
+// import fs from 'fs'
+import relatedTerms from "./related.js";
+import { json } from "stream/consumers";
 const query = "protocol";
 const db = await create({
   schema: {
     author: "string",
     title: "string",
+    ISBN: "string",
+    publisher: "string",
   },
 
 });
@@ -15,20 +19,42 @@ for (const book of database) {
   await insert(db, {
     author: book.author,
     title: book.title,
+    ISBN: book.ISBN,
+    publisher: book.publisher
   });
 }
-const searchResult = await search(db, {
-  term: query,
-  properties: "*",
-  limit: database.length,
-});
-console.log(searchResult);
 
-for (const hit of searchResult.hits) {
-  hit.score = hit.score.toFixed(2);
+const find = async (term) => {
+  try {
+    const searchResult = await search(db, {
+      term: term,
+      properties: ["author", "title", "ISBN"],
+      limit: database.length,
+    });
+    for (const hit of searchResult.hits) {
+      hit.score = hit.score.toFixed(2);
+    }
+    return searchResult.hits;
+  } catch (error) {
+    console.error(error);
+    return [];
+  }
 }
 
-fs.writeFile(query+'.json', JSON.stringify(searchResult.hits), (err) => {
-  if (err) throw err;
-  console.log('The file has been saved!');
-});
+const related = async (term) => {
+  try {
+    let final = [];
+    const terms = await relatedTerms(term);
+    for (const term of terms) {
+      const result = await (await find(term)).map((book) => book.document);
+      final.push(result);
+    }
+    return final;
+  }
+  catch (error) {
+    console.error(error);
+    return [];
+  }
+}
+
+console.log(await related(query));
